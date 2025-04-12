@@ -1,0 +1,1001 @@
+Customer_ID,Transaction_ID,Product_Category,Product_Name,Quantity_Purchased,Purchase_Amount,Discount_Percentage,Final_Price,Purchase_Date,Payment_Method,Customer_Age,Customer_Gender,Region
+1,T00001,Headphones,Bose 700,1,1168.87,22.01,911.6,3/19/2024,Debit Card,64,Male,South America
+2,T00002,Headphones,AirPods Pro,8,659.06,4.12,631.91,3/11/2023,Credit Card,31,Male,North America
+3,T00003,TV,LG OLED,8,1776.47,0.57,1766.34,11/8/2024,PayPal,26,Male,Asia
+4,T00004,Smartwatch,Apple Watch Series 7,7,1877.17,29.35,1326.22,9/8/2023,Credit Card,26,Female,Europe
+5,T00005,Headphones,Bose 700,3,2257.9,17.05,1872.93,10/30/2023,Credit Card,57,Male,Europe
+6,T00006,Headphones,Sony WH-1000XM4,10,2084.76,5.87,1962.38,2/12/2025,Debit Card,56,Male,South America
+7,T00007,Mobile,iPhone 13,1,336.55,14.26,288.56,11/19/2023,PayPal,59,Male,Africa
+8,T00008,Laptop,HP Spectre x360,4,2885.72,29.62,2030.97,2/25/2024,Debit Card,52,Female,South America
+9,T00009,TV,LG OLED,9,1950.86,4.51,1862.88,6/24/2024,PayPal,27,Male,Asia
+10,T00010,Laptop,MacBook Pro,10,546.5,3.01,530.05,3/28/2024,PayPal,21,Male,Africa
+11,T00011,TV,Sony Bravia,4,2087.35,27.81,1506.86,3/20/2024,Credit Card,63,Female,North America
+12,T00012,Mobile,Google Pixel 6,7,1462.06,22.65,1130.9,7/9/2023,Credit Card,28,Female,Europe
+13,T00013,TV,Sony Bravia,6,736.46,14.39,630.48,5/15/2023,Cash,28,Male,South America
+14,T00014,Mobile,iPhone 13,7,1364.71,14.19,1171.06,5/18/2023,Credit Card,48,Male,Africa
+15,T00015,Smartwatch,Samsung Galaxy Watch 4,6,1283.14,15.11,1089.26,1/28/2025,PayPal,62,Male,Africa
+16,T00016,Mobile,iPhone 13,2,2103.24,23.98,1598.88,7/6/2024,Cash,29,Female,South America
+17,T00017,Mobile,Samsung Galaxy S22,10,1050.31,4.84,999.47,11/7/2023,Cash,59,Female,Europe
+18,T00018,Smartwatch,Samsung Galaxy Watch 4,10,212.63,16.56,177.42,6/25/2024,Credit Card,56,Female,Africa
+19,T00019,Mobile,iPhone 13,7,2458.72,2.54,2396.27,5/10/2024,Credit Card,23,Female,Africa
+20,T00020,TV,Sony Bravia,8,1288.12,6.06,1210.06,6/22/2024,Debit Card,59,Female,South America
+21,T00021,Smartwatch,Samsung Galaxy Watch 4,1,340.22,15.8,286.47,7/28/2023,Cash,61,Male,Asia
+22,T00022,Headphones,Sony WH-1000XM4,2,2845.22,27.68,2057.66,3/11/2024,Debit Card,30,Male,Asia
+23,T00023,Laptop,Dell XPS 15,10,2309.37,18.61,1879.6,7/8/2024,Cash,40,Female,South America
+24,T00024,TV,LG OLED,9,1818.74,3.43,1756.36,11/11/2024,PayPal,40,Female,North America
+25,T00025,Smartwatch,Apple Watch Series 7,6,2380.98,27.88,1717.16,11/21/2024,PayPal,29,Female,Asia
+26,T00026,Laptop,Dell XPS 15,9,1050.23,2.74,1021.45,3/4/2024,Debit Card,68,Female,Europe
+27,T00027,Smartwatch,Samsung Galaxy Watch 4,3,257.7,9.5,233.22,2/25/2023,Credit Card,28,Female,South America
+28,T00028,Headphones,Bose 700,6,1446.6,9.24,1312.93,1/19/2025,Debit Card,26,Male,Africa
+29,T00029,Smartwatch,Samsung Galaxy Watch 4,3,357.52,28.64,255.13,11/5/2023,Cash,47,Male,Africa
+30,T00030,Laptop,Dell XPS 15,4,937.84,10.53,839.09,2/6/2025,PayPal,22,Male,Europe
+31,T00031,TV,LG OLED,6,1363.24,7.96,1254.73,5/19/2023,PayPal,58,Male,Europe
+32,T00032,Headphones,Bose 700,1,2731.08,19.92,2187.05,8/17/2023,Credit Card,26,Female,Africa
+33,T00033,Headphones,Bose 700,1,2086.79,0.76,2070.93,12/17/2024,PayPal,67,Male,Asia
+34,T00034,Headphones,AirPods Pro,10,345.1,6.75,321.81,4/19/2023,Credit Card,23,Male,North America
+35,T00035,Headphones,Sony WH-1000XM4,7,722.97,21.79,565.43,10/10/2023,PayPal,22,Male,Africa
+36,T00036,Laptop,MacBook Pro,4,2295.1,0.8,2276.74,2/5/2025,Cash,70,Male,Africa
+37,T00037,TV,LG OLED,4,826.88,1.3,816.13,11/11/2023,Debit Card,19,Male,Africa
+38,T00038,TV,Sony Bravia,3,2989.6,24.03,2271.2,6/11/2023,PayPal,62,Female,North America
+39,T00039,Headphones,Sony WH-1000XM4,6,1107.77,21.1,874.03,4/25/2024,Debit Card,60,Female,North America
+40,T00040,Mobile,iPhone 13,3,1916.96,27.06,1398.23,8/25/2023,Debit Card,49,Female,Asia
+41,T00041,Headphones,AirPods Pro,10,567.43,16.89,471.59,10/5/2023,Debit Card,20,Male,Asia
+42,T00042,TV,Samsung QLED,9,1774.04,4.91,1686.93,7/3/2023,Cash,22,Female,South America
+43,T00043,Headphones,AirPods Pro,2,2405.39,5.52,2272.61,8/6/2023,PayPal,69,Female,Asia
+44,T00044,Laptop,HP Spectre x360,9,1488.11,18.84,1207.75,5/1/2023,PayPal,38,Female,Africa
+45,T00045,Headphones,Bose 700,3,2770.15,14.8,2360.17,1/24/2025,Debit Card,54,Male,South America
+46,T00046,Smartwatch,Garmin Forerunner,4,1290.55,6.44,1207.44,6/8/2024,Debit Card,59,Female,Africa
+47,T00047,Laptop,HP Spectre x360,10,2472.12,7.28,2292.15,3/28/2024,Credit Card,30,Female,Europe
+48,T00048,Laptop,HP Spectre x360,8,2079.97,21.42,1634.44,5/15/2023,PayPal,28,Female,Europe
+49,T00049,Mobile,iPhone 13,4,81.83,24.73,61.59,11/16/2024,Credit Card,55,Female,Africa
+50,T00050,Laptop,MacBook Pro,6,1364.15,5.01,1295.81,7/30/2024,Cash,65,Male,Asia
+51,T00051,Headphones,Sony WH-1000XM4,6,1497.2,2.6,1458.27,9/6/2024,Cash,30,Female,Africa
+52,T00052,Laptop,MacBook Pro,4,168.46,27.76,121.7,3/27/2024,Cash,31,Female,North America
+53,T00053,Laptop,Dell XPS 15,9,1289.11,29.18,912.95,5/27/2023,Cash,21,Male,South America
+54,T00054,Laptop,HP Spectre x360,8,1629.11,8.86,1484.77,3/27/2024,PayPal,24,Female,South America
+55,T00055,Smartwatch,Samsung Galaxy Watch 4,5,1548.71,7.65,1430.23,1/6/2024,Debit Card,24,Female,South America
+56,T00056,TV,Samsung QLED,9,2810.84,8.14,2582.04,1/29/2025,PayPal,55,Female,Asia
+57,T00057,Headphones,Sony WH-1000XM4,3,588.85,2.44,574.48,8/19/2024,Credit Card,67,Female,North America
+58,T00058,Smartwatch,Garmin Forerunner,7,2125.81,27.48,1541.64,6/10/2024,Credit Card,42,Male,Europe
+59,T00059,Headphones,Bose 700,6,2639.59,10.05,2374.31,1/12/2025,Debit Card,63,Male,Europe
+60,T00060,Headphones,AirPods Pro,5,1053.41,21.82,823.56,1/7/2024,Cash,30,Male,Asia
+61,T00061,Smartwatch,Apple Watch Series 7,10,1478.52,18.26,1208.54,2/2/2024,PayPal,51,Female,Africa
+62,T00062,Headphones,Sony WH-1000XM4,5,1219.64,16.03,1024.13,6/9/2024,PayPal,53,Female,Asia
+63,T00063,Mobile,Google Pixel 6,5,999.63,0.38,995.83,2/26/2024,Cash,37,Male,North America
+64,T00064,Laptop,MacBook Pro,8,291.15,27.41,211.35,11/24/2024,Debit Card,70,Female,Africa
+65,T00065,TV,Sony Bravia,1,317.93,12.01,279.75,2/20/2024,Credit Card,45,Female,Asia
+66,T00066,TV,Sony Bravia,3,2344.16,8.92,2135.06,3/7/2023,Debit Card,67,Female,Europe
+67,T00067,Smartwatch,Samsung Galaxy Watch 4,9,2939.48,9.55,2658.76,5/22/2023,Credit Card,19,Female,South America
+68,T00068,TV,Samsung QLED,1,1306.75,13.75,1127.07,11/22/2024,Cash,19,Male,South America
+69,T00069,TV,Samsung QLED,1,1864.16,25,1398.12,9/6/2023,Cash,47,Female,Africa
+70,T00070,Laptop,HP Spectre x360,6,1527.41,0.55,1519.01,9/19/2023,Debit Card,40,Male,North America
+71,T00071,Smartwatch,Apple Watch Series 7,3,1802.69,21.9,1407.9,4/11/2023,Debit Card,61,Female,Asia
+72,T00072,Laptop,HP Spectre x360,4,1130.63,2.02,1107.79,12/23/2023,Credit Card,38,Male,Africa
+73,T00073,Laptop,MacBook Pro,1,1201.46,2.06,1176.71,4/9/2024,Debit Card,44,Female,Africa
+74,T00074,Laptop,Dell XPS 15,4,1216.72,4.19,1165.74,1/29/2025,Debit Card,53,Male,Europe
+75,T00075,Headphones,AirPods Pro,8,1352.5,15.65,1140.83,10/12/2023,Debit Card,47,Female,Asia
+76,T00076,Headphones,AirPods Pro,6,2937.54,7.6,2714.29,2/28/2024,Debit Card,48,Male,Africa
+77,T00077,Headphones,Bose 700,8,1385.75,0.22,1382.7,2/27/2023,Debit Card,26,Male,Asia
+78,T00078,TV,LG OLED,6,2739.22,9.68,2474.06,10/30/2024,Credit Card,58,Male,Africa
+79,T00079,Laptop,MacBook Pro,8,696.24,22.71,538.12,3/25/2024,Cash,23,Male,Europe
+80,T00080,TV,Samsung QLED,10,2004.53,14.01,1723.7,1/10/2025,Credit Card,62,Male,South America
+81,T00081,Headphones,Bose 700,8,1084.79,3.69,1044.76,9/24/2024,Cash,38,Male,Asia
+82,T00082,Headphones,Bose 700,9,839.07,24.57,632.91,8/11/2023,Cash,63,Female,Asia
+83,T00083,Laptop,Dell XPS 15,10,1497.76,13.61,1293.91,4/7/2024,Debit Card,40,Male,Africa
+84,T00084,Mobile,iPhone 13,8,2594.6,25.25,1939.46,8/2/2024,Cash,65,Male,Europe
+85,T00085,Smartwatch,Samsung Galaxy Watch 4,9,2215.26,13.25,1921.74,2/24/2024,PayPal,54,Male,Asia
+86,T00086,Smartwatch,Samsung Galaxy Watch 4,10,68.54,22.15,53.36,9/4/2023,Cash,64,Female,Africa
+87,T00087,Smartwatch,Garmin Forerunner,2,424.57,11.03,377.74,2/10/2024,Debit Card,69,Male,South America
+88,T00088,Laptop,Dell XPS 15,2,1796.17,29.18,1272.05,11/8/2023,Cash,60,Male,South America
+89,T00089,Laptop,Dell XPS 15,3,380.93,28.98,270.54,3/17/2024,Debit Card,52,Female,Asia
+90,T00090,Smartwatch,Garmin Forerunner,8,2840.47,1.81,2789.06,9/23/2024,Cash,45,Male,Asia
+91,T00091,TV,Sony Bravia,4,268.81,27.74,194.24,5/24/2024,Credit Card,24,Male,South America
+92,T00092,Mobile,iPhone 13,3,1588.11,9.4,1438.83,11/26/2023,PayPal,59,Female,North America
+93,T00093,Headphones,AirPods Pro,6,417.24,12.41,365.46,3/1/2023,Cash,55,Male,Asia
+94,T00094,Headphones,Sony WH-1000XM4,3,734.66,21.56,576.27,10/16/2023,PayPal,55,Male,Africa
+95,T00095,Smartwatch,Samsung Galaxy Watch 4,10,489.8,27.8,353.64,6/19/2023,Debit Card,21,Male,Africa
+96,T00096,Mobile,Google Pixel 6,7,2192.36,29.91,1536.63,4/6/2023,Credit Card,43,Male,Africa
+97,T00097,Smartwatch,Garmin Forerunner,9,2249.26,9.89,2026.81,2/20/2025,Cash,30,Female,North America
+98,T00098,Mobile,iPhone 13,2,1704.05,29.54,1200.67,6/21/2024,Cash,68,Male,North America
+99,T00099,Laptop,MacBook Pro,6,1171.41,6.17,1099.13,8/12/2023,Debit Card,21,Female,Asia
+100,T00100,Mobile,iPhone 13,5,2995.01,16.06,2514.01,7/15/2024,Debit Card,64,Male,Africa
+101,T00101,TV,LG OLED,6,2205.91,20.01,1764.51,3/19/2024,PayPal,57,Female,South America
+102,T00102,Headphones,Sony WH-1000XM4,7,2846.16,8.58,2601.96,2/14/2025,Cash,65,Female,Europe
+103,T00103,Mobile,iPhone 13,5,2270.66,17.51,1873.07,10/27/2024,Debit Card,42,Male,South America
+104,T00104,Laptop,MacBook Pro,2,2647.24,16.85,2201.18,6/13/2023,Cash,65,Female,South America
+105,T00105,Headphones,Sony WH-1000XM4,1,2360.9,8.94,2149.84,4/22/2024,PayPal,63,Female,South America
+106,T00106,Laptop,MacBook Pro,10,2039.36,11.67,1801.37,11/2/2024,Cash,31,Female,South America
+107,T00107,Mobile,Samsung Galaxy S22,9,1844.62,9.41,1671.04,10/11/2023,Credit Card,60,Male,Europe
+108,T00108,Headphones,Bose 700,1,1053.08,27.71,761.27,1/8/2025,Debit Card,51,Female,Asia
+109,T00109,Mobile,Samsung Galaxy S22,6,1485.26,3.64,1431.2,12/18/2023,Credit Card,44,Male,South America
+110,T00110,Smartwatch,Samsung Galaxy Watch 4,7,512.01,14.63,437.1,2/12/2024,Credit Card,59,Female,Asia
+111,T00111,Mobile,iPhone 13,8,1208.41,15.02,1026.91,5/6/2023,PayPal,19,Female,Europe
+112,T00112,TV,LG OLED,2,2746.47,21.8,2147.74,7/17/2024,PayPal,19,Male,Europe
+113,T00113,TV,Sony Bravia,1,2188.35,18.46,1784.38,12/15/2023,Credit Card,45,Female,North America
+114,T00114,Headphones,Sony WH-1000XM4,8,272.34,9.83,245.57,8/9/2024,Cash,53,Female,Africa
+115,T00115,Laptop,MacBook Pro,1,2905.77,20.83,2300.5,6/27/2024,Cash,48,Male,Europe
+116,T00116,Laptop,Dell XPS 15,1,1853.6,21.02,1463.97,2/6/2025,Credit Card,41,Female,Africa
+117,T00117,TV,Sony Bravia,3,2689.82,25.14,2013.6,11/6/2023,Credit Card,48,Male,North America
+118,T00118,TV,LG OLED,5,746.11,17.56,615.09,5/13/2024,Debit Card,68,Male,South America
+119,T00119,TV,LG OLED,7,2046.9,12.19,1797.38,6/13/2023,PayPal,21,Male,Africa
+120,T00120,Laptop,MacBook Pro,7,2144.25,27,1565.3,7/25/2024,Credit Card,38,Male,South America
+121,T00121,Headphones,AirPods Pro,9,2053.79,18.9,1665.62,9/20/2023,Cash,67,Female,North America
+122,T00122,Laptop,Dell XPS 15,8,1559.81,10.6,1394.47,5/19/2023,PayPal,54,Female,North America
+123,T00123,Smartwatch,Apple Watch Series 7,6,469.5,18.21,384,4/15/2023,PayPal,41,Male,Europe
+124,T00124,Headphones,Sony WH-1000XM4,8,276.92,7.42,256.37,3/14/2023,PayPal,20,Male,Europe
+125,T00125,Smartwatch,Apple Watch Series 7,1,2609.36,27.17,1900.4,2/9/2025,Debit Card,41,Female,North America
+126,T00126,Headphones,Bose 700,2,499.05,26.1,368.8,6/16/2024,PayPal,55,Male,North America
+127,T00127,Mobile,iPhone 13,1,389.06,6.63,363.27,7/27/2023,Cash,61,Male,Europe
+128,T00128,Smartwatch,Apple Watch Series 7,10,1074.68,19.6,864.04,12/1/2024,Credit Card,65,Female,Africa
+129,T00129,Smartwatch,Apple Watch Series 7,8,752.96,20.55,598.23,9/3/2024,PayPal,18,Male,Africa
+130,T00130,Smartwatch,Samsung Galaxy Watch 4,6,2079.71,17.12,1723.66,10/14/2024,PayPal,32,Male,North America
+131,T00131,TV,Sony Bravia,2,1823,8.62,1665.86,4/12/2024,Credit Card,25,Male,South America
+132,T00132,Smartwatch,Apple Watch Series 7,8,1362.27,2.9,1322.76,12/31/2023,Cash,25,Female,Africa
+133,T00133,Mobile,iPhone 13,3,212.45,28.98,150.88,4/19/2023,Cash,51,Female,Asia
+134,T00134,Laptop,HP Spectre x360,9,2992.69,16.27,2505.78,10/27/2023,PayPal,45,Male,Africa
+135,T00135,Mobile,Samsung Galaxy S22,10,1074.64,12.56,939.67,8/20/2024,PayPal,40,Male,South America
+136,T00136,Smartwatch,Garmin Forerunner,5,2483.54,15.93,2087.91,4/29/2023,Debit Card,18,Male,South America
+137,T00137,Laptop,Dell XPS 15,2,1071.59,1.59,1054.55,7/24/2023,Credit Card,46,Male,Asia
+138,T00138,Headphones,Bose 700,1,1528.85,7.78,1409.91,11/30/2024,Debit Card,44,Female,Asia
+139,T00139,Headphones,Sony WH-1000XM4,7,678.1,27.89,488.98,8/6/2023,Credit Card,33,Male,Africa
+140,T00140,Smartwatch,Apple Watch Series 7,10,2080.99,1.95,2040.41,6/4/2024,Debit Card,23,Female,Asia
+141,T00141,TV,Samsung QLED,4,102.57,9.42,92.91,7/26/2023,Cash,39,Male,Europe
+142,T00142,Laptop,HP Spectre x360,7,1660.37,12.22,1457.47,1/24/2024,PayPal,36,Female,Africa
+143,T00143,Mobile,iPhone 13,10,999.72,13.37,866.06,12/4/2024,Credit Card,26,Female,Africa
+144,T00144,TV,LG OLED,1,1016.91,17.88,835.09,10/15/2023,Credit Card,57,Female,Africa
+145,T00145,Mobile,Google Pixel 6,2,2279.58,29.7,1602.54,10/1/2024,Debit Card,24,Male,North America
+146,T00146,Smartwatch,Apple Watch Series 7,3,1174.6,13.21,1019.44,5/29/2023,PayPal,33,Female,Europe
+147,T00147,Smartwatch,Samsung Galaxy Watch 4,10,2916.84,10.68,2605.32,12/18/2024,Debit Card,50,Female,North America
+148,T00148,Headphones,AirPods Pro,3,2755.08,17.06,2285.06,11/29/2023,Debit Card,48,Female,North America
+149,T00149,TV,Samsung QLED,4,2963.31,16.43,2476.44,3/30/2024,PayPal,55,Female,North America
+150,T00150,TV,Sony Bravia,10,1007.37,17.33,832.79,2/6/2025,PayPal,54,Male,South America
+151,T00151,Smartwatch,Samsung Galaxy Watch 4,3,2535.47,11.47,2244.65,7/17/2023,Cash,70,Female,Asia
+152,T00152,TV,Samsung QLED,6,2834.49,7.69,2616.52,6/26/2023,Debit Card,49,Female,South America
+153,T00153,Smartwatch,Apple Watch Series 7,9,1304.3,9.1,1185.61,7/12/2024,Cash,23,Female,South America
+154,T00154,Headphones,AirPods Pro,4,2494.46,29.27,1764.33,11/7/2023,Cash,56,Male,Europe
+155,T00155,Mobile,Google Pixel 6,6,904.81,15.43,765.2,10/14/2024,Cash,63,Female,Europe
+156,T00156,Headphones,Sony WH-1000XM4,4,288.35,10.68,257.55,3/21/2024,PayPal,43,Female,Asia
+157,T00157,Mobile,Google Pixel 6,6,2387.17,18.18,1953.18,3/18/2023,PayPal,62,Female,Europe
+158,T00158,Laptop,MacBook Pro,2,201.46,25.44,150.21,11/26/2024,PayPal,45,Male,North America
+159,T00159,Headphones,Bose 700,6,1260.83,24.54,951.42,7/5/2023,Credit Card,70,Male,South America
+160,T00160,Mobile,iPhone 13,4,802.27,8.37,735.12,9/26/2024,Debit Card,60,Male,Europe
+161,T00161,Mobile,Google Pixel 6,1,938.77,8.46,859.35,4/6/2024,Cash,46,Male,Europe
+162,T00162,Mobile,Google Pixel 6,5,1056.55,12.7,922.37,8/9/2024,PayPal,36,Male,Africa
+163,T00163,Mobile,iPhone 13,10,148.55,7.87,136.86,10/25/2023,Debit Card,53,Male,Africa
+164,T00164,Smartwatch,Samsung Galaxy Watch 4,3,2294.72,5.43,2170.12,9/6/2023,PayPal,32,Female,North America
+165,T00165,TV,Samsung QLED,10,1357.78,26.58,996.88,2/8/2025,Debit Card,47,Female,North America
+166,T00166,Headphones,Bose 700,5,405.36,28.25,290.85,9/7/2023,PayPal,37,Female,Europe
+167,T00167,Laptop,Dell XPS 15,3,2441.45,15.79,2055.95,8/5/2024,Cash,54,Male,North America
+168,T00168,Headphones,AirPods Pro,4,1461.14,19.81,1171.69,8/1/2024,Credit Card,46,Female,South America
+169,T00169,Mobile,Samsung Galaxy S22,2,1408.27,24.22,1067.19,6/16/2024,Debit Card,34,Female,North America
+170,T00170,Laptop,Dell XPS 15,10,1618.82,5.83,1524.44,5/22/2024,Cash,57,Female,Europe
+171,T00171,Laptop,Dell XPS 15,7,631.97,7.23,586.28,5/20/2023,Credit Card,21,Female,Africa
+172,T00172,Headphones,Sony WH-1000XM4,6,1469.27,11.39,1301.92,1/30/2025,PayPal,50,Female,North America
+173,T00173,TV,Sony Bravia,4,532.93,9.25,483.63,11/17/2023,Debit Card,43,Male,Asia
+174,T00174,Mobile,Google Pixel 6,10,656.52,12.12,576.95,2/18/2025,Debit Card,60,Female,South America
+175,T00175,Headphones,Sony WH-1000XM4,4,2394.9,5.91,2253.36,6/3/2024,Credit Card,47,Female,North America
+176,T00176,Laptop,Dell XPS 15,5,2867.24,4.11,2749.4,11/14/2024,Cash,63,Female,North America
+177,T00177,Laptop,Dell XPS 15,10,2632.51,6.55,2460.08,1/7/2024,Credit Card,64,Male,South America
+178,T00178,Laptop,HP Spectre x360,1,402.37,25.69,299,11/22/2024,Debit Card,34,Male,South America
+179,T00179,TV,Samsung QLED,1,2878.37,23.22,2210.01,2/22/2024,Credit Card,33,Male,Europe
+180,T00180,TV,Samsung QLED,1,2989.87,21.42,2349.44,1/19/2025,Debit Card,26,Female,Europe
+181,T00181,Headphones,Bose 700,7,2309.12,28.95,1640.63,9/4/2024,Cash,52,Female,Europe
+182,T00182,Mobile,Google Pixel 6,6,2780.77,2.92,2699.57,1/8/2024,Credit Card,50,Male,North America
+183,T00183,Headphones,Sony WH-1000XM4,2,2006.68,8.78,1830.49,11/21/2024,Credit Card,31,Male,South America
+184,T00184,TV,LG OLED,6,2458.85,16.41,2055.35,4/4/2024,Cash,48,Male,Europe
+185,T00185,TV,Samsung QLED,9,1502.54,14.31,1287.53,6/16/2023,PayPal,41,Female,Europe
+186,T00186,Laptop,HP Spectre x360,1,1175.32,0.44,1170.15,12/7/2024,PayPal,23,Male,Asia
+187,T00187,Laptop,Dell XPS 15,2,1668,2.67,1623.46,8/10/2023,Credit Card,42,Female,Asia
+188,T00188,Mobile,Samsung Galaxy S22,9,1106.31,0.34,1102.55,9/12/2024,Cash,47,Female,Africa
+189,T00189,Headphones,Bose 700,1,1930.51,7.9,1778,2/5/2024,Cash,21,Male,Africa
+190,T00190,Headphones,AirPods Pro,7,1138.96,15.61,961.17,8/2/2023,Cash,36,Female,North America
+191,T00191,TV,Samsung QLED,3,1212.4,10,1091.16,9/2/2024,Debit Card,41,Male,Europe
+192,T00192,TV,LG OLED,9,596.33,12.02,524.65,4/28/2023,Debit Card,19,Female,Europe
+193,T00193,Laptop,MacBook Pro,1,1875.94,20.25,1496.06,9/24/2023,PayPal,34,Male,Asia
+194,T00194,Laptop,Dell XPS 15,8,302.82,22.54,234.56,9/12/2024,Credit Card,21,Female,Africa
+195,T00195,Mobile,Google Pixel 6,2,370.95,20,296.76,11/24/2024,Debit Card,38,Male,South America
+196,T00196,Smartwatch,Apple Watch Series 7,4,693.06,14.63,591.67,3/10/2024,Cash,59,Male,Europe
+197,T00197,Smartwatch,Apple Watch Series 7,1,1773.42,3.32,1714.54,5/26/2024,PayPal,45,Male,Asia
+198,T00198,Mobile,iPhone 13,4,586.26,25.57,436.35,6/3/2024,Credit Card,43,Male,Africa
+199,T00199,Smartwatch,Garmin Forerunner,10,2774.1,21.14,2187.66,3/12/2024,Cash,38,Female,Asia
+200,T00200,Laptop,HP Spectre x360,3,2952.39,20.13,2358.07,7/15/2024,Credit Card,29,Male,Asia
+201,T00201,Smartwatch,Samsung Galaxy Watch 4,9,1626.18,14.55,1389.57,8/16/2023,Cash,25,Female,Asia
+202,T00202,Mobile,iPhone 13,5,2166.32,4.44,2070.14,12/17/2024,Debit Card,28,Female,Asia
+203,T00203,Mobile,iPhone 13,3,2418.56,14.57,2066.18,2/9/2025,Debit Card,57,Male,Europe
+204,T00204,Mobile,Google Pixel 6,4,1485,4.71,1415.06,9/13/2024,PayPal,36,Female,Asia
+205,T00205,Mobile,Samsung Galaxy S22,4,2196.34,3.16,2126.94,5/22/2023,PayPal,61,Female,Africa
+206,T00206,Smartwatch,Apple Watch Series 7,1,1035.85,14.54,885.24,1/16/2024,Credit Card,39,Male,North America
+207,T00207,Smartwatch,Garmin Forerunner,5,2195.87,4.36,2100.13,7/9/2024,Credit Card,57,Female,North America
+208,T00208,Smartwatch,Garmin Forerunner,1,1098.27,14.43,939.79,2/20/2024,Debit Card,33,Male,North America
+209,T00209,Smartwatch,Samsung Galaxy Watch 4,5,541.94,29.77,380.6,10/28/2024,Credit Card,22,Female,Asia
+210,T00210,Laptop,HP Spectre x360,2,2479.77,29.42,1750.22,12/26/2024,PayPal,42,Female,Africa
+211,T00211,Mobile,Samsung Galaxy S22,8,210.48,13.11,182.89,10/13/2023,PayPal,31,Male,North America
+212,T00212,Headphones,Bose 700,4,1494.82,21.17,1178.37,10/18/2024,Debit Card,60,Female,South America
+213,T00213,Laptop,HP Spectre x360,1,2025.38,0.03,2024.77,2/11/2024,PayPal,46,Male,North America
+214,T00214,TV,Samsung QLED,9,2151.16,23.3,1649.94,8/25/2023,Debit Card,60,Male,South America
+215,T00215,Headphones,Sony WH-1000XM4,5,190.93,5.41,180.6,5/27/2023,Credit Card,30,Male,Africa
+216,T00216,Mobile,iPhone 13,4,1800.91,27.69,1302.24,11/21/2023,Cash,27,Male,North America
+217,T00217,Mobile,iPhone 13,7,1647.25,25.92,1220.28,11/11/2023,Credit Card,63,Female,South America
+218,T00218,Smartwatch,Samsung Galaxy Watch 4,4,252.26,14.12,216.64,5/28/2024,PayPal,31,Male,Asia
+219,T00219,Headphones,AirPods Pro,10,2240.46,10.37,2008.12,11/19/2024,Cash,31,Female,North America
+220,T00220,Smartwatch,Garmin Forerunner,7,713.45,16.45,596.09,7/6/2024,PayPal,34,Female,Europe
+221,T00221,Laptop,MacBook Pro,10,2140.81,4.29,2048.97,9/19/2024,Cash,29,Male,North America
+222,T00222,Smartwatch,Apple Watch Series 7,1,1744.13,14.16,1497.16,5/7/2023,Debit Card,49,Female,North America
+223,T00223,Laptop,MacBook Pro,1,2388.48,8.17,2193.34,3/3/2023,Debit Card,63,Male,North America
+224,T00224,Laptop,HP Spectre x360,5,1911.72,18.83,1551.74,2/3/2025,Credit Card,43,Female,South America
+225,T00225,Headphones,Sony WH-1000XM4,4,2659.37,1.8,2611.5,2/1/2024,Credit Card,26,Female,Europe
+226,T00226,TV,LG OLED,10,1173.19,6.72,1094.35,6/9/2024,Debit Card,47,Female,Europe
+227,T00227,TV,Samsung QLED,7,254.72,4.95,242.11,7/28/2023,Credit Card,28,Female,North America
+228,T00228,TV,Samsung QLED,2,1033.31,12.56,903.53,12/27/2024,Cash,55,Female,Europe
+229,T00229,Smartwatch,Samsung Galaxy Watch 4,2,1401.39,12.96,1219.77,6/27/2023,Debit Card,45,Male,Asia
+230,T00230,Smartwatch,Apple Watch Series 7,6,1206.6,23.43,923.89,6/27/2023,Debit Card,61,Male,Africa
+231,T00231,TV,Samsung QLED,9,1776.45,5.79,1673.59,1/18/2024,Debit Card,30,Female,Asia
+232,T00232,Laptop,Dell XPS 15,8,419.88,27.67,303.7,5/5/2024,PayPal,43,Female,South America
+233,T00233,Headphones,AirPods Pro,4,2339.36,6.58,2185.43,10/27/2024,PayPal,42,Male,North America
+234,T00234,Headphones,Sony WH-1000XM4,5,152.98,15.55,129.19,3/21/2023,Credit Card,38,Male,Africa
+235,T00235,TV,Sony Bravia,6,239.13,16.04,200.77,11/29/2023,Debit Card,39,Male,Africa
+236,T00236,Smartwatch,Apple Watch Series 7,10,2791.18,5.08,2649.39,2/5/2025,Credit Card,44,Male,South America
+237,T00237,Mobile,iPhone 13,10,2517.93,13.9,2167.94,5/15/2024,Cash,28,Male,Africa
+238,T00238,TV,Samsung QLED,9,172.53,5.05,163.82,1/26/2025,Cash,57,Male,Europe
+239,T00239,Smartwatch,Garmin Forerunner,9,1117.25,9.55,1010.55,8/21/2023,Cash,64,Female,Asia
+240,T00240,TV,LG OLED,7,2177.11,27.75,1572.96,11/12/2023,Credit Card,68,Female,South America
+241,T00241,Smartwatch,Apple Watch Series 7,3,978.87,14.29,838.99,1/30/2024,Credit Card,49,Female,North America
+242,T00242,Laptop,MacBook Pro,4,969.79,4.7,924.21,3/7/2024,Credit Card,48,Female,North America
+243,T00243,Headphones,Sony WH-1000XM4,8,1362.25,29.08,966.11,8/28/2024,Cash,67,Female,South America
+244,T00244,Mobile,Samsung Galaxy S22,10,2406.55,27.64,1741.38,1/11/2025,Debit Card,60,Female,North America
+245,T00245,TV,Sony Bravia,1,2439.84,18.83,1980.42,2/15/2025,Debit Card,70,Female,Asia
+246,T00246,TV,Samsung QLED,1,440.68,23.64,336.5,2/10/2025,PayPal,30,Male,South America
+247,T00247,Headphones,Bose 700,5,2216.27,18.41,1808.25,10/14/2023,Cash,48,Female,Asia
+248,T00248,Smartwatch,Apple Watch Series 7,5,2511.21,18.58,2044.63,2/1/2024,Credit Card,39,Female,North America
+249,T00249,Mobile,iPhone 13,2,2492.39,8.71,2275.3,1/16/2025,Debit Card,59,Female,Africa
+250,T00250,Mobile,Samsung Galaxy S22,4,2938.14,20.79,2327.3,8/8/2024,Credit Card,34,Female,South America
+251,T00251,Laptop,MacBook Pro,6,1312.91,24.81,987.18,12/21/2024,Debit Card,23,Female,Africa
+252,T00252,Smartwatch,Garmin Forerunner,5,1514.56,23.04,1165.61,5/25/2023,Debit Card,44,Male,South America
+253,T00253,Smartwatch,Samsung Galaxy Watch 4,5,308.63,25.96,228.51,7/7/2024,PayPal,32,Male,Africa
+254,T00254,Mobile,Google Pixel 6,8,1334.97,11.31,1183.98,9/23/2024,Credit Card,21,Female,South America
+255,T00255,Mobile,Google Pixel 6,6,1030.52,22.21,801.64,6/25/2023,PayPal,48,Male,North America
+256,T00256,Headphones,Bose 700,4,1783.8,24.99,1338.03,2/23/2024,PayPal,40,Female,Asia
+257,T00257,Smartwatch,Samsung Galaxy Watch 4,4,1255.02,6.64,1171.69,10/27/2024,Debit Card,45,Male,North America
+258,T00258,TV,LG OLED,9,1772.27,19.16,1432.7,2/9/2025,Credit Card,23,Male,North America
+259,T00259,TV,Sony Bravia,9,237.19,20.18,189.33,1/16/2025,PayPal,66,Female,South America
+260,T00260,TV,Sony Bravia,4,811.73,28.42,581.04,1/4/2025,Cash,42,Male,Europe
+261,T00261,TV,LG OLED,1,2622.45,8.59,2397.18,4/23/2024,Cash,65,Male,Europe
+262,T00262,Laptop,MacBook Pro,5,2278.09,15.07,1934.78,9/18/2023,PayPal,54,Male,South America
+263,T00263,TV,Samsung QLED,7,696.52,12,612.94,7/31/2023,Cash,62,Male,Africa
+264,T00264,Mobile,iPhone 13,4,2458.31,18.52,2003.03,10/16/2023,Cash,44,Male,South America
+265,T00265,Mobile,Samsung Galaxy S22,4,2816.27,25.45,2099.53,3/3/2024,Debit Card,22,Female,Europe
+266,T00266,Laptop,Dell XPS 15,8,2615.66,20.82,2071.08,11/15/2024,Debit Card,29,Female,Africa
+267,T00267,Smartwatch,Apple Watch Series 7,5,1531.06,12.83,1334.63,3/20/2024,PayPal,31,Male,Asia
+268,T00268,Headphones,Bose 700,5,125.23,25.48,93.32,4/4/2024,Debit Card,51,Male,North America
+269,T00269,Smartwatch,Apple Watch Series 7,7,1852.47,15.79,1559.96,5/22/2024,Credit Card,68,Male,South America
+270,T00270,Smartwatch,Samsung Galaxy Watch 4,2,193.22,20.6,153.42,9/1/2024,Cash,66,Female,North America
+271,T00271,Laptop,Dell XPS 15,4,2163.31,29.94,1515.61,5/24/2023,Cash,57,Male,Asia
+272,T00272,Mobile,Samsung Galaxy S22,8,1071.48,26.94,782.82,10/5/2023,Credit Card,63,Male,Africa
+273,T00273,Mobile,Samsung Galaxy S22,7,886.81,17.88,728.25,12/10/2023,Credit Card,36,Female,South America
+274,T00274,TV,Sony Bravia,9,2761.31,17.72,2272.01,11/26/2024,Credit Card,59,Male,Europe
+275,T00275,TV,Samsung QLED,6,166.69,9.51,150.84,10/17/2023,Credit Card,23,Male,Asia
+276,T00276,Smartwatch,Garmin Forerunner,4,2277.98,13.95,1960.2,7/6/2023,Cash,37,Female,South America
+277,T00277,Headphones,Bose 700,1,79.03,24.4,59.75,6/21/2024,Credit Card,50,Female,Asia
+278,T00278,Smartwatch,Garmin Forerunner,4,882.98,21.44,693.67,6/5/2024,Cash,62,Male,South America
+279,T00279,TV,Samsung QLED,8,251.61,9.9,226.7,11/5/2023,PayPal,64,Female,North America
+280,T00280,Smartwatch,Garmin Forerunner,10,955.31,11.2,848.32,6/4/2024,Cash,57,Female,Africa
+281,T00281,Mobile,Google Pixel 6,9,259.75,24.72,195.54,2/23/2024,Credit Card,22,Female,Asia
+282,T00282,Laptop,HP Spectre x360,3,220.26,23.45,168.61,12/11/2023,PayPal,35,Female,Africa
+283,T00283,Smartwatch,Garmin Forerunner,3,842.96,6.42,788.84,9/18/2023,Credit Card,44,Female,Asia
+284,T00284,Smartwatch,Samsung Galaxy Watch 4,9,390.29,28.55,278.86,8/31/2024,Debit Card,54,Male,Europe
+285,T00285,Smartwatch,Garmin Forerunner,5,1926.5,7.56,1780.86,6/11/2024,Credit Card,63,Male,Asia
+286,T00286,Smartwatch,Apple Watch Series 7,8,1231.36,12.33,1079.53,7/28/2023,Credit Card,62,Male,South America
+287,T00287,Smartwatch,Apple Watch Series 7,3,1038.62,5.1,985.65,3/28/2024,PayPal,21,Male,South America
+288,T00288,TV,Samsung QLED,7,2917.2,12.02,2566.55,5/15/2023,Cash,51,Male,Europe
+289,T00289,Headphones,Sony WH-1000XM4,10,1453.48,29.43,1025.72,10/20/2023,Cash,32,Female,South America
+290,T00290,Mobile,iPhone 13,9,810.44,1.04,802.01,10/19/2024,Cash,50,Male,South America
+291,T00291,Headphones,Sony WH-1000XM4,4,2943.31,20.71,2333.75,8/21/2024,PayPal,32,Female,Europe
+292,T00292,Laptop,Dell XPS 15,3,940.81,0.06,940.25,7/13/2023,Debit Card,22,Male,North America
+293,T00293,TV,Samsung QLED,8,1478.7,18.29,1208.25,8/30/2024,Cash,57,Male,Asia
+294,T00294,Mobile,iPhone 13,9,2211.87,14.17,1898.45,9/22/2024,Credit Card,62,Male,Africa
+295,T00295,Smartwatch,Garmin Forerunner,5,2075.96,12.97,1806.71,10/31/2024,PayPal,20,Male,Africa
+296,T00296,Smartwatch,Garmin Forerunner,1,948.57,3.23,917.93,3/23/2024,Debit Card,62,Female,Africa
+297,T00297,TV,Sony Bravia,9,339.98,1.8,333.86,7/29/2023,Cash,18,Male,Europe
+298,T00298,Smartwatch,Garmin Forerunner,10,985.48,6.38,922.61,9/23/2023,Cash,46,Female,North America
+299,T00299,Laptop,HP Spectre x360,2,763.33,20.62,605.93,10/4/2023,Debit Card,36,Female,Europe
+300,T00300,Laptop,HP Spectre x360,7,1628.38,1.17,1609.33,12/26/2024,PayPal,61,Female,North America
+301,T00301,Headphones,Sony WH-1000XM4,7,387.1,2.71,376.61,3/21/2024,PayPal,34,Female,Europe
+302,T00302,Mobile,Google Pixel 6,4,2634.41,10,2370.97,11/5/2023,Credit Card,34,Female,Africa
+303,T00303,Headphones,AirPods Pro,2,2289.46,5.82,2156.21,11/4/2023,Debit Card,66,Female,Asia
+304,T00304,Mobile,Samsung Galaxy S22,2,753.84,15.13,639.78,10/12/2023,Credit Card,18,Female,Africa
+305,T00305,Smartwatch,Garmin Forerunner,2,2736.74,3.14,2650.81,11/16/2024,Debit Card,52,Female,South America
+306,T00306,Mobile,Samsung Galaxy S22,8,657.32,22.18,511.53,1/21/2025,Debit Card,28,Female,Asia
+307,T00307,Laptop,HP Spectre x360,2,55.72,19.28,44.98,2/29/2024,PayPal,21,Female,Africa
+308,T00308,Laptop,HP Spectre x360,8,2445.9,9.08,2223.81,9/1/2023,Cash,34,Male,South America
+309,T00309,Mobile,iPhone 13,9,174.8,16.16,146.55,3/12/2023,Debit Card,43,Male,North America
+310,T00310,Smartwatch,Garmin Forerunner,5,1511.76,23.21,1160.88,5/1/2023,PayPal,65,Female,South America
+311,T00311,Mobile,iPhone 13,1,333.1,26.34,245.36,8/30/2023,Debit Card,52,Female,South America
+312,T00312,Laptop,MacBook Pro,4,2970.21,16.03,2494.09,6/30/2023,Cash,55,Male,Europe
+313,T00313,Headphones,Bose 700,9,769.04,24.14,583.39,1/9/2024,Debit Card,22,Female,North America
+314,T00314,TV,Sony Bravia,10,72.33,27.3,52.58,5/23/2024,Debit Card,68,Female,North America
+315,T00315,Smartwatch,Apple Watch Series 7,2,1352.77,26.98,987.79,3/17/2023,Credit Card,49,Male,South America
+316,T00316,Laptop,MacBook Pro,9,2477.24,1.55,2438.84,12/21/2024,Debit Card,44,Female,Asia
+317,T00317,Laptop,MacBook Pro,3,1164.9,17.28,963.61,5/12/2023,PayPal,48,Male,Asia
+318,T00318,Laptop,Dell XPS 15,3,387.95,26.1,286.7,12/4/2024,Credit Card,63,Female,Europe
+319,T00319,Smartwatch,Apple Watch Series 7,6,346.65,21.3,272.81,7/3/2023,Debit Card,69,Male,Europe
+320,T00320,Smartwatch,Garmin Forerunner,7,2807.02,13.85,2418.25,6/5/2024,Debit Card,43,Female,Asia
+321,T00321,Smartwatch,Garmin Forerunner,9,2280.91,2.96,2213.4,4/22/2023,PayPal,44,Female,Africa
+322,T00322,Laptop,Dell XPS 15,10,470.32,14.86,400.43,8/23/2023,PayPal,59,Male,Europe
+323,T00323,Laptop,MacBook Pro,5,2323.35,17.22,1923.27,5/25/2024,Cash,51,Male,Africa
+324,T00324,Mobile,Google Pixel 6,5,265.21,5.61,250.33,12/31/2023,Cash,53,Female,Europe
+325,T00325,Smartwatch,Garmin Forerunner,7,1027.29,24.79,772.62,5/26/2024,Cash,47,Male,Asia
+326,T00326,TV,Samsung QLED,5,703.31,11.67,621.23,8/20/2023,Credit Card,37,Female,Europe
+327,T00327,Smartwatch,Apple Watch Series 7,10,192.8,1.07,190.74,11/10/2024,Cash,28,Male,Europe
+328,T00328,Smartwatch,Garmin Forerunner,9,2605.85,24.97,1955.17,10/6/2024,Credit Card,67,Female,Europe
+329,T00329,Mobile,Samsung Galaxy S22,9,1807.7,22.34,1403.86,3/3/2024,Debit Card,21,Female,Africa
+330,T00330,Laptop,Dell XPS 15,8,1233.07,21.26,970.92,1/8/2025,Cash,37,Female,South America
+331,T00331,TV,Sony Bravia,1,1634.89,10.68,1460.28,9/26/2024,PayPal,54,Female,North America
+332,T00332,Smartwatch,Apple Watch Series 7,2,652.73,14.63,557.24,5/9/2024,Credit Card,65,Male,Asia
+333,T00333,Mobile,Samsung Galaxy S22,10,927.02,6.59,865.93,4/24/2024,Debit Card,65,Male,North America
+334,T00334,Mobile,Samsung Galaxy S22,6,1274.16,22.19,991.42,10/9/2024,PayPal,33,Female,Africa
+335,T00335,Laptop,MacBook Pro,8,2884.26,5.44,2727.36,4/11/2023,Cash,70,Female,South America
+336,T00336,Mobile,Samsung Galaxy S22,2,856.11,24.55,645.93,7/29/2023,PayPal,29,Female,South America
+337,T00337,Headphones,AirPods Pro,7,2516.55,15.07,2137.31,2/23/2025,Credit Card,21,Male,South America
+338,T00338,Smartwatch,Garmin Forerunner,5,2854.44,4.55,2724.56,11/17/2024,Cash,45,Female,Asia
+339,T00339,Smartwatch,Apple Watch Series 7,2,2863.42,10.15,2572.78,12/15/2024,Cash,51,Female,South America
+340,T00340,Mobile,Google Pixel 6,1,2887.94,21.83,2257.5,6/4/2023,Credit Card,59,Female,South America
+341,T00341,Smartwatch,Garmin Forerunner,9,2904.48,3.06,2815.6,1/5/2024,Cash,48,Male,North America
+342,T00342,Smartwatch,Apple Watch Series 7,2,1030.14,23.83,784.66,9/24/2023,Debit Card,41,Female,Africa
+343,T00343,Headphones,Sony WH-1000XM4,2,2941.85,16.39,2459.68,6/29/2024,PayPal,46,Male,North America
+344,T00344,Mobile,Samsung Galaxy S22,5,91.95,16.45,76.82,6/25/2024,PayPal,55,Female,Africa
+345,T00345,TV,Sony Bravia,9,383.85,23.15,294.99,5/27/2023,Cash,44,Male,Africa
+346,T00346,TV,Sony Bravia,3,2701.11,13.85,2327.01,6/26/2024,Cash,48,Female,Asia
+347,T00347,Smartwatch,Samsung Galaxy Watch 4,7,1066.68,29.68,750.09,1/17/2025,Debit Card,68,Female,Africa
+348,T00348,Mobile,Samsung Galaxy S22,6,2124.05,2.64,2067.98,8/21/2024,Debit Card,47,Male,North America
+349,T00349,TV,Samsung QLED,9,2189.58,6.33,2050.98,8/17/2024,Debit Card,61,Female,North America
+350,T00350,Smartwatch,Samsung Galaxy Watch 4,5,2258.84,22.01,1761.67,3/4/2023,Credit Card,23,Male,North America
+351,T00351,Smartwatch,Samsung Galaxy Watch 4,8,2972.46,14.1,2553.34,5/9/2023,Debit Card,54,Female,Europe
+352,T00352,Laptop,HP Spectre x360,4,1965.79,20.77,1557.5,12/6/2024,Cash,65,Female,South America
+353,T00353,Mobile,Samsung Galaxy S22,1,877.75,8.53,802.88,3/7/2023,Cash,26,Male,Africa
+354,T00354,Headphones,AirPods Pro,10,2304.68,9.83,2078.13,9/18/2023,Credit Card,59,Female,Asia
+355,T00355,Laptop,Dell XPS 15,1,2743.98,1.28,2708.86,7/21/2024,Credit Card,41,Male,Africa
+356,T00356,Smartwatch,Apple Watch Series 7,3,547.47,15.18,464.36,4/13/2024,Credit Card,55,Female,Europe
+357,T00357,TV,Sony Bravia,10,761.18,25.18,569.51,6/18/2024,Credit Card,58,Male,Africa
+358,T00358,Laptop,MacBook Pro,6,1947.42,5.83,1833.89,3/14/2023,PayPal,62,Male,Europe
+359,T00359,Headphones,Bose 700,5,1198.78,24.15,909.27,3/4/2024,Credit Card,39,Female,North America
+360,T00360,Laptop,HP Spectre x360,3,2537.31,1.69,2494.43,5/21/2023,PayPal,43,Male,South America
+361,T00361,TV,Samsung QLED,4,1885.52,0.82,1870.06,10/14/2023,Cash,38,Male,South America
+362,T00362,Laptop,HP Spectre x360,3,1868.95,18.29,1527.12,5/5/2023,Cash,29,Female,North America
+363,T00363,Mobile,Samsung Galaxy S22,4,2074.12,17.63,1708.45,12/5/2024,Cash,31,Male,Asia
+364,T00364,Mobile,Google Pixel 6,3,1019.72,12.13,896.03,9/12/2023,Cash,66,Female,Europe
+365,T00365,TV,Samsung QLED,1,2422.01,13.91,2085.11,1/13/2025,Cash,29,Female,South America
+366,T00366,Laptop,HP Spectre x360,2,1737.76,11.91,1530.79,9/20/2024,PayPal,55,Male,Europe
+367,T00367,Mobile,Google Pixel 6,8,2693.5,5.48,2545.9,12/25/2024,Credit Card,28,Female,South America
+368,T00368,Headphones,AirPods Pro,7,1984.87,26.43,1460.27,9/27/2024,Credit Card,19,Male,Europe
+369,T00369,Laptop,MacBook Pro,10,324.79,15.13,275.65,3/20/2024,Debit Card,18,Male,Asia
+370,T00370,Headphones,AirPods Pro,5,1448.05,29.23,1024.78,3/23/2024,Debit Card,68,Male,North America
+371,T00371,TV,LG OLED,8,2149.05,7.98,1977.56,2/10/2025,PayPal,56,Male,North America
+372,T00372,TV,LG OLED,2,1317.56,0.71,1308.21,11/29/2023,PayPal,44,Female,Asia
+373,T00373,TV,Sony Bravia,3,2034.65,29.05,1443.58,4/27/2024,Debit Card,38,Female,South America
+374,T00374,Smartwatch,Apple Watch Series 7,4,1871.18,5.42,1769.76,4/12/2024,Cash,30,Female,Africa
+375,T00375,Mobile,Google Pixel 6,9,2288.04,25.7,1700.01,10/5/2024,Credit Card,42,Male,Africa
+376,T00376,Smartwatch,Apple Watch Series 7,9,176.7,17.96,144.96,7/29/2024,Cash,38,Female,Europe
+377,T00377,Laptop,HP Spectre x360,7,1847.8,13.1,1605.74,10/13/2023,Credit Card,54,Female,North America
+378,T00378,TV,LG OLED,1,2945.36,6.73,2747.14,5/12/2023,PayPal,35,Male,North America
+379,T00379,TV,LG OLED,7,596.78,6.5,557.99,10/6/2024,Cash,64,Male,South America
+380,T00380,Mobile,Google Pixel 6,5,2395.62,16.3,2005.13,4/5/2024,Credit Card,42,Male,Europe
+381,T00381,Laptop,MacBook Pro,7,2625.46,25.14,1965.42,5/25/2024,Credit Card,36,Male,North America
+382,T00382,TV,Samsung QLED,7,334.97,6.46,313.33,4/24/2023,Cash,27,Female,South America
+383,T00383,Mobile,Samsung Galaxy S22,1,370.21,13.15,321.53,4/28/2024,Cash,34,Female,North America
+384,T00384,Smartwatch,Garmin Forerunner,10,2652.98,27.24,1930.31,6/28/2024,Credit Card,31,Female,Asia
+385,T00385,Headphones,Sony WH-1000XM4,9,565.28,27.68,408.81,12/1/2024,Credit Card,57,Female,North America
+386,T00386,Mobile,iPhone 13,3,930.46,4.21,891.29,9/5/2023,Credit Card,34,Male,Africa
+387,T00387,Headphones,Sony WH-1000XM4,2,1527.24,18.71,1241.49,9/16/2024,Cash,51,Male,Europe
+388,T00388,Smartwatch,Apple Watch Series 7,1,2312.73,2.86,2246.59,2/8/2025,Credit Card,60,Female,North America
+389,T00389,TV,LG OLED,6,1053.08,25.29,786.76,7/24/2023,Debit Card,18,Male,Asia
+390,T00390,Laptop,HP Spectre x360,3,940.09,21.11,741.64,2/4/2024,Debit Card,69,Male,Europe
+391,T00391,Smartwatch,Samsung Galaxy Watch 4,9,2803.08,4.43,2678.9,7/14/2024,Cash,59,Male,North America
+392,T00392,Headphones,AirPods Pro,2,1555.98,27.78,1123.73,11/22/2023,Credit Card,52,Female,North America
+393,T00393,Smartwatch,Garmin Forerunner,7,650.68,6.59,607.8,1/18/2024,Debit Card,40,Female,North America
+394,T00394,TV,Sony Bravia,10,289.03,10.9,257.53,10/19/2024,Credit Card,54,Male,Africa
+395,T00395,Mobile,Google Pixel 6,9,636.63,24.03,483.65,4/6/2024,PayPal,33,Female,Europe
+396,T00396,Mobile,iPhone 13,8,1890.12,13.72,1630.8,5/4/2023,Debit Card,64,Male,North America
+397,T00397,Headphones,Sony WH-1000XM4,1,2573.97,29.16,1823.4,4/26/2023,Credit Card,69,Male,Africa
+398,T00398,Laptop,HP Spectre x360,3,1405.52,3.68,1353.8,6/30/2023,Debit Card,48,Female,South America
+399,T00399,Smartwatch,Samsung Galaxy Watch 4,6,389.56,16,327.23,12/30/2023,Credit Card,65,Male,Europe
+400,T00400,Laptop,Dell XPS 15,1,871.91,26.57,640.24,6/28/2024,Credit Card,33,Male,North America
+401,T00401,Laptop,MacBook Pro,6,346.1,2.9,336.06,6/7/2024,Cash,39,Male,South America
+402,T00402,Smartwatch,Samsung Galaxy Watch 4,7,1115.26,29.86,782.24,10/22/2024,Debit Card,21,Male,Asia
+403,T00403,TV,Samsung QLED,7,1417.77,11.43,1255.72,6/24/2024,PayPal,22,Male,Asia
+404,T00404,Headphones,AirPods Pro,7,1092.48,11.35,968.48,11/28/2023,Cash,38,Male,South America
+405,T00405,TV,LG OLED,2,1057.99,27.16,770.64,9/1/2024,Debit Card,50,Female,North America
+406,T00406,Smartwatch,Samsung Galaxy Watch 4,1,718.7,28.28,515.45,7/23/2023,PayPal,60,Male,South America
+407,T00407,Mobile,Google Pixel 6,9,1463.77,1.6,1440.35,1/24/2024,Cash,69,Female,South America
+408,T00408,Smartwatch,Apple Watch Series 7,4,2259.38,3.26,2185.72,3/13/2024,Debit Card,47,Female,Africa
+409,T00409,Headphones,AirPods Pro,3,2635.95,6.92,2453.54,10/12/2023,PayPal,30,Male,North America
+410,T00410,Smartwatch,Samsung Galaxy Watch 4,10,1071.97,4.11,1027.91,12/6/2023,Debit Card,29,Female,Europe
+411,T00411,Mobile,Samsung Galaxy S22,6,2728.74,15.26,2312.33,6/18/2023,Cash,59,Male,Africa
+412,T00412,Smartwatch,Samsung Galaxy Watch 4,4,2747.55,26.54,2018.35,6/29/2024,PayPal,45,Female,Europe
+413,T00413,Smartwatch,Garmin Forerunner,1,2439.22,26.48,1793.31,4/6/2024,Cash,52,Female,North America
+414,T00414,Smartwatch,Apple Watch Series 7,2,1407.77,15.07,1195.62,8/12/2024,Credit Card,64,Female,South America
+415,T00415,Laptop,Dell XPS 15,8,1450.76,24.07,1101.56,1/10/2025,Cash,46,Male,North America
+416,T00416,TV,Sony Bravia,6,2135.88,18.99,1730.28,12/9/2024,Cash,38,Male,Europe
+417,T00417,Headphones,AirPods Pro,4,2477.59,25.07,1856.46,2/2/2025,Credit Card,63,Male,North America
+418,T00418,Mobile,Google Pixel 6,2,1516.71,14.57,1295.73,9/8/2024,PayPal,47,Female,North America
+419,T00419,Headphones,Sony WH-1000XM4,10,1704.37,26.23,1257.31,3/5/2024,Credit Card,53,Female,South America
+420,T00420,Mobile,Samsung Galaxy S22,10,1151.68,7.63,1063.81,11/30/2024,Debit Card,56,Male,Asia
+421,T00421,TV,LG OLED,3,2806.47,6.72,2617.88,4/7/2024,PayPal,29,Male,Asia
+422,T00422,Headphones,Sony WH-1000XM4,9,262.83,15.3,222.62,11/23/2023,Cash,50,Female,South America
+423,T00423,Headphones,Sony WH-1000XM4,6,1666.82,23.64,1272.78,12/20/2024,Cash,36,Male,Europe
+424,T00424,Smartwatch,Samsung Galaxy Watch 4,3,479.14,23.05,368.7,4/10/2023,Debit Card,33,Female,Asia
+425,T00425,Smartwatch,Apple Watch Series 7,9,778.86,19.55,626.59,4/11/2024,PayPal,22,Female,North America
+426,T00426,Smartwatch,Apple Watch Series 7,5,1840.42,5.2,1744.72,1/31/2024,Debit Card,50,Male,Asia
+427,T00427,Laptop,Dell XPS 15,7,1486.4,8.77,1356.04,11/8/2024,Cash,42,Female,Asia
+428,T00428,TV,Sony Bravia,1,846.72,23.14,650.79,3/17/2023,Debit Card,68,Male,North America
+429,T00429,Headphones,Bose 700,3,1688.1,16.41,1411.08,9/16/2023,Cash,46,Female,South America
+430,T00430,Headphones,Bose 700,10,1256.48,21.11,991.24,10/9/2023,Debit Card,42,Female,Asia
+431,T00431,TV,LG OLED,3,2241.02,27.7,1620.26,5/3/2023,PayPal,66,Female,North America
+432,T00432,TV,Samsung QLED,1,1984.14,8.3,1819.46,5/10/2024,PayPal,38,Male,Africa
+433,T00433,TV,Samsung QLED,8,2479.58,17.24,2052.1,10/8/2023,Cash,20,Female,Europe
+434,T00434,Laptop,Dell XPS 15,6,2013.52,13.54,1740.89,12/14/2024,Cash,61,Female,North America
+435,T00435,TV,LG OLED,5,297.78,19.51,239.68,2/14/2024,Cash,38,Female,Africa
+436,T00436,TV,Sony Bravia,5,604.81,16.92,502.48,8/11/2024,Cash,50,Female,North America
+437,T00437,Laptop,MacBook Pro,2,475.06,9.41,430.36,6/11/2023,PayPal,56,Male,Europe
+438,T00438,Laptop,Dell XPS 15,9,1261.48,10.61,1127.64,11/1/2024,Debit Card,41,Male,North America
+439,T00439,Mobile,Google Pixel 6,5,1718.72,26.44,1264.29,1/19/2024,Cash,33,Male,Africa
+440,T00440,Mobile,Samsung Galaxy S22,3,1203.33,27.54,871.93,1/13/2024,PayPal,40,Female,North America
+441,T00441,Laptop,MacBook Pro,5,730.94,12.84,637.09,9/28/2024,Debit Card,35,Female,North America
+442,T00442,Mobile,iPhone 13,4,630.78,27.87,454.98,2/19/2024,Debit Card,58,Female,Africa
+443,T00443,Smartwatch,Garmin Forerunner,10,1621.63,21.72,1269.41,6/24/2024,Cash,70,Female,Europe
+444,T00444,Laptop,HP Spectre x360,1,322.79,26.15,238.38,10/27/2024,PayPal,20,Male,North America
+445,T00445,Mobile,iPhone 13,9,1365.61,6.22,1280.67,2/22/2025,Debit Card,65,Female,Asia
+446,T00446,Smartwatch,Garmin Forerunner,4,2405.69,19.63,1933.45,10/23/2023,PayPal,42,Female,Europe
+447,T00447,Mobile,Samsung Galaxy S22,4,770.09,4.62,734.51,8/13/2023,Credit Card,43,Male,Africa
+448,T00448,TV,LG OLED,1,977.53,3.5,943.32,4/30/2023,Credit Card,52,Male,Europe
+449,T00449,Laptop,HP Spectre x360,10,262.83,17.91,215.76,1/22/2025,PayPal,45,Male,Africa
+450,T00450,Laptop,HP Spectre x360,7,2506.24,0.92,2483.18,12/21/2024,Cash,32,Female,South America
+451,T00451,Smartwatch,Garmin Forerunner,6,1005.03,1.48,990.16,1/27/2024,Debit Card,43,Male,North America
+452,T00452,Smartwatch,Samsung Galaxy Watch 4,9,2532.33,15.86,2130.7,9/12/2023,PayPal,53,Male,Asia
+453,T00453,Mobile,Samsung Galaxy S22,3,2396.81,8.44,2194.52,3/26/2023,Debit Card,58,Female,Africa
+454,T00454,Smartwatch,Garmin Forerunner,5,792.67,12.96,689.94,12/29/2024,PayPal,40,Male,Europe
+455,T00455,Mobile,Samsung Galaxy S22,8,154.19,3.57,148.69,5/17/2024,Debit Card,67,Male,Africa
+456,T00456,TV,LG OLED,10,1899.98,13.75,1638.73,7/17/2024,Cash,57,Female,Asia
+457,T00457,Headphones,AirPods Pro,7,2922.38,23,2250.23,2/8/2024,PayPal,46,Female,South America
+458,T00458,Mobile,iPhone 13,1,943.34,22.41,731.94,3/8/2024,Credit Card,49,Male,Europe
+459,T00459,Laptop,MacBook Pro,9,2030.04,25.58,1510.76,12/31/2023,Debit Card,37,Female,Europe
+460,T00460,TV,LG OLED,5,2670.28,0.16,2666.01,1/2/2025,Credit Card,31,Female,South America
+461,T00461,Smartwatch,Samsung Galaxy Watch 4,3,181.05,23.98,137.63,7/27/2024,Credit Card,42,Male,Africa
+462,T00462,TV,Samsung QLED,7,2158.84,24.62,1627.33,11/29/2024,Debit Card,19,Female,North America
+463,T00463,Mobile,Google Pixel 6,1,577.63,6.76,538.58,5/14/2024,PayPal,63,Female,Europe
+464,T00464,Headphones,Sony WH-1000XM4,6,2909.63,18.57,2369.31,6/19/2024,Credit Card,20,Female,Africa
+465,T00465,Headphones,AirPods Pro,5,198.5,15.21,168.31,10/5/2024,Debit Card,46,Male,Africa
+466,T00466,Smartwatch,Garmin Forerunner,10,2378.43,16.14,1994.55,10/1/2023,Cash,37,Male,Europe
+467,T00467,Laptop,Dell XPS 15,6,319.55,23.43,244.68,11/11/2023,Cash,46,Male,North America
+468,T00468,Smartwatch,Apple Watch Series 7,7,2691.41,3.73,2591.02,4/2/2024,Credit Card,58,Male,North America
+469,T00469,Smartwatch,Apple Watch Series 7,1,2672.38,15.22,2265.64,7/22/2023,PayPal,52,Female,North America
+470,T00470,Laptop,Dell XPS 15,7,140.82,2,138,12/4/2023,PayPal,19,Female,Africa
+471,T00471,Mobile,Google Pixel 6,1,673.04,7.08,625.39,12/31/2023,PayPal,21,Female,Europe
+472,T00472,Headphones,AirPods Pro,3,1746.28,15.03,1483.81,10/25/2024,PayPal,55,Female,North America
+473,T00473,Smartwatch,Garmin Forerunner,9,398.44,4.57,380.23,6/9/2024,PayPal,55,Male,Europe
+474,T00474,Mobile,Samsung Galaxy S22,1,2292.33,10.56,2050.26,4/13/2023,Debit Card,42,Male,Asia
+475,T00475,Laptop,HP Spectre x360,9,2470.38,24.79,1857.97,8/23/2023,PayPal,56,Male,South America
+476,T00476,TV,Sony Bravia,6,807.2,0.37,804.21,8/19/2023,Cash,45,Female,Africa
+477,T00477,Headphones,Bose 700,6,2229.14,29.18,1578.68,1/2/2025,Debit Card,35,Male,South America
+478,T00478,Laptop,Dell XPS 15,6,2917.48,16.14,2446.6,1/6/2025,PayPal,59,Female,South America
+479,T00479,Mobile,iPhone 13,5,872.62,8.33,799.93,4/7/2024,Cash,61,Male,Europe
+480,T00480,TV,LG OLED,7,907.32,19.43,731.03,9/4/2024,Debit Card,20,Female,South America
+481,T00481,Laptop,HP Spectre x360,5,2198.27,21.39,1728.06,7/25/2023,Cash,51,Female,South America
+482,T00482,Laptop,MacBook Pro,8,2602.58,11.79,2295.74,8/20/2023,Cash,57,Male,North America
+483,T00483,Headphones,Bose 700,3,1875.95,17.75,1542.97,9/6/2023,Debit Card,18,Female,Europe
+484,T00484,TV,Samsung QLED,6,2565.38,15.36,2171.34,6/20/2023,PayPal,53,Male,Africa
+485,T00485,Mobile,iPhone 13,2,2877.33,11.68,2541.26,12/28/2023,Debit Card,69,Female,Asia
+486,T00486,TV,Sony Bravia,3,501.16,11.43,443.88,1/29/2025,Cash,21,Male,North America
+487,T00487,Laptop,Dell XPS 15,3,1916.06,21.31,1507.75,2/3/2024,Debit Card,22,Female,Africa
+488,T00488,Headphones,Bose 700,8,2448.62,5.73,2308.31,5/9/2023,PayPal,25,Female,Africa
+489,T00489,TV,Sony Bravia,6,273.72,7.87,252.18,3/24/2024,Debit Card,39,Male,South America
+490,T00490,Headphones,Sony WH-1000XM4,8,2749.68,25.47,2049.34,6/22/2024,Debit Card,30,Male,North America
+491,T00491,TV,LG OLED,4,568.7,12.43,498.01,12/25/2024,Cash,30,Male,Africa
+492,T00492,Laptop,HP Spectre x360,5,1219.36,23.44,933.54,8/15/2024,Credit Card,38,Male,North America
+493,T00493,TV,LG OLED,2,1692.1,1.39,1668.58,6/4/2023,Debit Card,52,Female,Africa
+494,T00494,Laptop,HP Spectre x360,10,2530.25,25.34,1889.08,10/22/2024,Debit Card,22,Male,Europe
+495,T00495,Laptop,MacBook Pro,3,2683.09,2.66,2611.72,7/16/2024,PayPal,48,Female,South America
+496,T00496,Smartwatch,Apple Watch Series 7,7,2143.31,4.73,2041.93,6/10/2024,PayPal,58,Male,North America
+497,T00497,TV,Sony Bravia,5,2950.39,12.26,2588.67,2/18/2024,Credit Card,24,Female,North America
+498,T00498,Laptop,MacBook Pro,5,1953.92,17.07,1620.39,12/27/2024,Cash,31,Female,South America
+499,T00499,TV,LG OLED,9,161.98,15.48,136.91,6/5/2024,Debit Card,33,Male,Asia
+500,T00500,TV,LG OLED,2,413.36,12.38,362.19,10/31/2023,Credit Card,61,Female,Asia
+501,T00501,Laptop,HP Spectre x360,4,110.57,26.11,81.7,1/16/2024,PayPal,19,Male,Asia
+502,T00502,Laptop,MacBook Pro,8,2716.9,16.69,2263.45,2/26/2024,Debit Card,43,Female,South America
+503,T00503,Laptop,HP Spectre x360,4,2534.29,19.72,2034.53,11/21/2023,PayPal,30,Female,Africa
+504,T00504,Mobile,iPhone 13,8,827.88,9.62,748.24,4/2/2023,Debit Card,32,Male,Asia
+505,T00505,Smartwatch,Garmin Forerunner,4,2539.61,17.68,2090.61,4/1/2023,Debit Card,51,Male,Europe
+506,T00506,Headphones,AirPods Pro,6,1268.47,8.39,1162.05,11/23/2024,Cash,42,Female,Africa
+507,T00507,Headphones,Bose 700,5,1385.03,9.93,1247.5,9/6/2024,Debit Card,70,Female,Asia
+508,T00508,Smartwatch,Apple Watch Series 7,4,1534.25,2.73,1492.36,9/14/2023,Debit Card,35,Female,South America
+509,T00509,TV,Samsung QLED,8,2666.66,17.67,2195.46,1/27/2025,Debit Card,18,Male,North America
+510,T00510,Smartwatch,Samsung Galaxy Watch 4,8,2835.71,12.47,2482.1,11/14/2023,PayPal,26,Male,North America
+511,T00511,Headphones,AirPods Pro,2,1949.5,25.5,1452.38,4/6/2024,Debit Card,19,Female,North America
+512,T00512,Mobile,Google Pixel 6,7,1414.81,16.9,1175.71,2/18/2025,Debit Card,57,Male,Europe
+513,T00513,Mobile,Google Pixel 6,3,1437.2,28.06,1033.92,12/28/2023,Debit Card,27,Male,Asia
+514,T00514,Headphones,Bose 700,8,1218.54,8.99,1108.99,11/12/2023,Credit Card,31,Male,Africa
+515,T00515,Mobile,Google Pixel 6,1,2857.54,28.46,2044.28,6/25/2023,Cash,22,Male,Africa
+516,T00516,TV,Samsung QLED,4,2116.93,17.86,1738.85,12/21/2024,Cash,66,Female,Europe
+517,T00517,Laptop,MacBook Pro,1,2239.91,25.14,1676.8,9/18/2024,PayPal,51,Female,Africa
+518,T00518,Mobile,Samsung Galaxy S22,8,2305.39,3.56,2223.32,12/2/2024,Credit Card,24,Female,Europe
+519,T00519,Mobile,Samsung Galaxy S22,10,1743.34,6.71,1626.36,10/22/2023,Debit Card,61,Male,Africa
+520,T00520,Smartwatch,Garmin Forerunner,10,2515.63,6.02,2364.19,4/7/2023,PayPal,68,Male,Europe
+521,T00521,Mobile,Google Pixel 6,9,378,16.62,315.18,11/3/2024,PayPal,29,Male,North America
+522,T00522,Mobile,iPhone 13,10,798.65,5.67,753.37,6/22/2024,PayPal,44,Male,North America
+523,T00523,Smartwatch,Garmin Forerunner,9,877.29,10.65,783.86,2/2/2024,PayPal,37,Male,North America
+524,T00524,TV,Samsung QLED,4,2196.31,2.91,2132.4,11/11/2023,Cash,42,Female,South America
+525,T00525,Laptop,MacBook Pro,5,2261,19.63,1817.17,1/10/2025,Debit Card,21,Male,Europe
+526,T00526,Headphones,Bose 700,2,2135.1,0.29,2128.91,5/27/2023,Credit Card,60,Female,Asia
+527,T00527,Smartwatch,Samsung Galaxy Watch 4,5,1236.74,14.54,1056.92,6/9/2024,Cash,58,Male,Africa
+528,T00528,Laptop,HP Spectre x360,5,2644.75,2.2,2586.57,2/24/2024,Cash,35,Male,Europe
+529,T00529,Headphones,AirPods Pro,10,1415.21,2.26,1383.23,4/14/2023,Debit Card,52,Female,Africa
+530,T00530,TV,LG OLED,6,1803.84,23.41,1381.56,6/13/2023,Debit Card,42,Male,Africa
+531,T00531,Mobile,Samsung Galaxy S22,7,2667.98,8.36,2444.94,11/20/2023,Debit Card,63,Male,North America
+532,T00532,Headphones,Bose 700,6,1513.17,21.56,1186.93,10/30/2023,Debit Card,52,Female,Africa
+533,T00533,Smartwatch,Garmin Forerunner,2,1995.89,24.54,1506.1,11/24/2024,Cash,31,Male,Africa
+534,T00534,Smartwatch,Garmin Forerunner,6,435.18,7.11,404.24,9/1/2024,Credit Card,30,Male,Africa
+535,T00535,Headphones,Sony WH-1000XM4,2,1146.76,22.37,890.23,4/13/2023,Debit Card,53,Male,South America
+536,T00536,Laptop,Dell XPS 15,3,327.14,4.04,313.92,6/18/2023,Cash,29,Male,North America
+537,T00537,TV,LG OLED,3,1663.34,12.53,1454.92,1/13/2024,Credit Card,35,Male,South America
+538,T00538,Mobile,iPhone 13,2,2991.43,18.31,2443.7,2/13/2024,PayPal,31,Female,South America
+539,T00539,Mobile,Samsung Galaxy S22,3,2393.6,26.32,1763.6,11/8/2024,PayPal,70,Female,Asia
+540,T00540,Mobile,iPhone 13,4,2999.57,14.74,2557.43,1/15/2024,Debit Card,34,Female,Africa
+541,T00541,Headphones,Sony WH-1000XM4,5,1288.74,11.42,1141.57,9/9/2024,Cash,41,Male,North America
+542,T00542,Smartwatch,Garmin Forerunner,3,935.34,29.38,660.54,6/5/2023,Debit Card,39,Female,Asia
+543,T00543,TV,Sony Bravia,2,121.83,27.85,87.9,4/15/2024,Debit Card,42,Female,Asia
+544,T00544,Mobile,iPhone 13,3,1344.97,3.81,1293.73,7/10/2024,PayPal,39,Male,Africa
+545,T00545,Smartwatch,Samsung Galaxy Watch 4,7,1183.56,9.03,1076.68,8/21/2023,Debit Card,55,Female,Africa
+546,T00546,Laptop,Dell XPS 15,9,1602.26,26.14,1183.43,1/19/2024,Debit Card,47,Female,South America
+547,T00547,Mobile,iPhone 13,3,2425.61,8.41,2221.62,10/12/2023,Debit Card,52,Male,Asia
+548,T00548,Smartwatch,Apple Watch Series 7,1,724.55,29.46,511.1,7/22/2024,Credit Card,47,Male,Asia
+549,T00549,TV,Sony Bravia,8,1455.87,25.98,1077.63,10/10/2023,Credit Card,23,Male,Asia
+550,T00550,TV,Samsung QLED,10,592.64,6.39,554.77,1/22/2025,Debit Card,20,Female,North America
+551,T00551,Laptop,HP Spectre x360,10,1302.99,17.14,1079.66,4/17/2023,PayPal,52,Male,North America
+552,T00552,Smartwatch,Garmin Forerunner,6,2511.07,29.86,1761.26,7/15/2023,PayPal,43,Female,South America
+553,T00553,Headphones,AirPods Pro,8,373.52,15.46,315.77,3/28/2024,Credit Card,47,Male,North America
+554,T00554,Headphones,Sony WH-1000XM4,9,1883.85,3.1,1825.45,7/6/2024,Cash,61,Female,South America
+555,T00555,Smartwatch,Samsung Galaxy Watch 4,7,413.34,14.05,355.27,9/28/2023,PayPal,29,Female,Europe
+556,T00556,Laptop,HP Spectre x360,6,1844.86,23.22,1416.48,9/11/2024,PayPal,45,Female,North America
+557,T00557,Smartwatch,Garmin Forerunner,10,897.07,18.47,731.38,6/13/2024,Credit Card,37,Male,Asia
+558,T00558,Smartwatch,Garmin Forerunner,9,2597.89,8.6,2374.47,10/30/2023,Cash,46,Male,South America
+559,T00559,Laptop,Dell XPS 15,7,2383.56,18.66,1938.79,3/16/2023,Cash,53,Female,South America
+560,T00560,Laptop,Dell XPS 15,10,2657.41,3.15,2573.7,10/18/2024,Cash,58,Female,North America
+561,T00561,TV,Samsung QLED,2,74.04,17.73,60.91,11/2/2023,Cash,62,Female,South America
+562,T00562,Mobile,iPhone 13,7,2243.08,14.45,1918.95,9/17/2024,PayPal,51,Male,North America
+563,T00563,Headphones,Sony WH-1000XM4,6,1766,8.42,1617.3,2/3/2025,Cash,63,Female,South America
+564,T00564,Smartwatch,Samsung Galaxy Watch 4,8,1699.87,3.65,1637.82,4/29/2023,Cash,48,Female,North America
+565,T00565,Headphones,Sony WH-1000XM4,8,2328.9,19.64,1871.5,4/16/2024,Cash,66,Male,Europe
+566,T00566,Headphones,Sony WH-1000XM4,8,2411.61,19.46,1942.31,2/4/2024,PayPal,49,Male,Africa
+567,T00567,Mobile,Google Pixel 6,7,1884.36,29.87,1321.5,1/23/2024,PayPal,51,Female,South America
+568,T00568,Mobile,iPhone 13,2,437.89,9.6,395.85,7/30/2024,Cash,30,Male,South America
+569,T00569,TV,Sony Bravia,10,1957.12,25.37,1460.6,3/18/2023,PayPal,33,Male,Africa
+570,T00570,Mobile,iPhone 13,9,2947.06,24.68,2219.73,4/8/2024,PayPal,24,Male,Asia
+571,T00571,Headphones,AirPods Pro,8,236.38,18.38,192.93,6/20/2023,Debit Card,65,Female,North America
+572,T00572,Laptop,MacBook Pro,7,1719.37,15.46,1453.56,5/9/2023,Cash,55,Female,Africa
+573,T00573,Mobile,iPhone 13,5,2008.44,1.55,1977.31,8/8/2024,PayPal,34,Female,Asia
+574,T00574,Laptop,Dell XPS 15,9,2327.86,18.41,1899.3,2/19/2024,PayPal,26,Male,Africa
+575,T00575,Laptop,MacBook Pro,7,2161.42,8.16,1985.05,5/3/2023,PayPal,52,Male,North America
+576,T00576,Mobile,Google Pixel 6,1,1888.86,27.15,1376.03,5/1/2024,Debit Card,24,Female,Asia
+577,T00577,Mobile,Google Pixel 6,2,760.54,28.99,540.06,7/23/2023,PayPal,45,Female,North America
+578,T00578,Mobile,Google Pixel 6,5,258.3,3.78,248.54,2/16/2024,Debit Card,48,Male,Africa
+579,T00579,Headphones,Sony WH-1000XM4,6,2725.16,27.76,1968.66,12/27/2023,Credit Card,64,Male,North America
+580,T00580,Mobile,Samsung Galaxy S22,10,2367.06,28.12,1701.44,5/3/2023,Debit Card,41,Female,South America
+581,T00581,Headphones,AirPods Pro,2,2604.36,4.68,2482.48,12/17/2023,Credit Card,45,Male,Asia
+582,T00582,Laptop,MacBook Pro,3,1536.36,22.06,1197.44,7/14/2023,Cash,35,Female,Europe
+583,T00583,Mobile,Samsung Galaxy S22,8,904.56,21.75,707.82,3/8/2023,PayPal,51,Female,Africa
+584,T00584,Smartwatch,Garmin Forerunner,7,433.88,17.29,358.86,10/13/2024,Cash,61,Female,Europe
+585,T00585,Headphones,AirPods Pro,5,2063.43,12.67,1801.99,4/18/2024,Cash,41,Female,North America
+586,T00586,Laptop,HP Spectre x360,2,280.99,21.37,220.94,10/16/2024,Cash,39,Male,Europe
+587,T00587,Smartwatch,Samsung Galaxy Watch 4,9,1329.38,21.89,1038.38,5/25/2023,Credit Card,33,Male,North America
+588,T00588,Headphones,AirPods Pro,9,1930.83,21.93,1507.4,8/30/2023,Debit Card,35,Female,Africa
+589,T00589,Mobile,iPhone 13,6,567.49,25.64,421.99,7/19/2023,Credit Card,26,Male,Asia
+590,T00590,Smartwatch,Garmin Forerunner,1,1697.38,25.92,1257.42,12/29/2024,Credit Card,57,Male,South America
+591,T00591,Smartwatch,Garmin Forerunner,6,1956.55,16.49,1633.91,11/17/2024,Cash,52,Female,Asia
+592,T00592,Mobile,Google Pixel 6,9,2094.25,17.93,1718.75,1/10/2025,Credit Card,60,Female,North America
+593,T00593,Smartwatch,Apple Watch Series 7,10,588.34,28.56,420.31,7/6/2023,Debit Card,35,Male,North America
+594,T00594,Headphones,Bose 700,1,2592.37,11.21,2301.77,12/25/2024,Debit Card,52,Male,Asia
+595,T00595,TV,Samsung QLED,7,2459.87,12.48,2152.88,11/28/2023,Credit Card,29,Male,South America
+596,T00596,TV,Samsung QLED,2,51.17,11.59,45.24,10/18/2024,PayPal,63,Male,Asia
+597,T00597,TV,LG OLED,4,1424.86,28.02,1025.61,4/7/2024,Credit Card,59,Male,North America
+598,T00598,TV,Sony Bravia,6,2792.13,14.62,2383.92,10/30/2023,PayPal,69,Female,North America
+599,T00599,Headphones,AirPods Pro,7,1501.42,25.14,1123.96,11/23/2023,PayPal,39,Male,South America
+600,T00600,Mobile,iPhone 13,10,1348.03,13.91,1160.52,10/9/2024,Credit Card,39,Male,South America
+601,T00601,TV,Sony Bravia,5,1357.77,23.28,1041.68,9/19/2024,Debit Card,34,Male,North America
+602,T00602,Mobile,iPhone 13,9,282.54,19.15,228.43,12/7/2024,Credit Card,53,Female,Africa
+603,T00603,Smartwatch,Samsung Galaxy Watch 4,2,2266.39,23.42,1735.6,9/25/2024,PayPal,38,Male,Asia
+604,T00604,TV,Sony Bravia,2,2122.18,25.54,1580.18,9/29/2023,Credit Card,23,Female,Asia
+605,T00605,Headphones,AirPods Pro,6,1684.17,6.43,1575.88,12/24/2024,Cash,36,Male,North America
+606,T00606,Smartwatch,Garmin Forerunner,4,2256.02,27.39,1638.1,6/29/2024,Credit Card,53,Female,South America
+607,T00607,TV,Samsung QLED,9,2386.22,29.1,1691.83,10/2/2024,Credit Card,52,Female,Asia
+608,T00608,Headphones,Bose 700,5,1561.34,26.5,1147.58,3/12/2024,Debit Card,20,Male,Europe
+609,T00609,Smartwatch,Samsung Galaxy Watch 4,1,129.22,13.84,111.34,6/18/2023,Credit Card,70,Female,Europe
+610,T00610,Mobile,Samsung Galaxy S22,5,2473.77,7,2300.61,8/13/2024,Debit Card,60,Male,Africa
+611,T00611,Headphones,Sony WH-1000XM4,7,590.38,6.41,552.54,6/4/2023,Cash,43,Male,Africa
+612,T00612,Smartwatch,Samsung Galaxy Watch 4,5,378.85,24.63,285.54,8/15/2024,PayPal,53,Male,South America
+613,T00613,Headphones,Bose 700,4,2319.94,5.11,2201.39,8/23/2024,Debit Card,57,Female,Asia
+614,T00614,Mobile,Google Pixel 6,5,2471.69,7.81,2278.65,7/1/2024,Credit Card,26,Female,Europe
+615,T00615,Headphones,Sony WH-1000XM4,1,843.14,26.24,621.9,1/29/2025,Cash,20,Male,South America
+616,T00616,Laptop,MacBook Pro,10,1906.79,4.69,1817.36,12/23/2023,Debit Card,53,Male,Europe
+617,T00617,Smartwatch,Samsung Galaxy Watch 4,1,1066.68,23.59,815.05,2/2/2024,PayPal,28,Female,Europe
+618,T00618,Laptop,Dell XPS 15,9,2992.42,8.6,2735.07,11/13/2023,Debit Card,62,Male,Europe
+619,T00619,Headphones,Bose 700,1,2197.35,21.16,1732.39,8/5/2023,Debit Card,38,Female,Asia
+620,T00620,Smartwatch,Samsung Galaxy Watch 4,9,564.4,9.31,511.85,10/14/2023,PayPal,21,Female,North America
+621,T00621,Laptop,Dell XPS 15,8,1041.67,27.28,757.5,10/18/2024,Credit Card,67,Male,North America
+622,T00622,Smartwatch,Apple Watch Series 7,3,1711.49,18.34,1397.6,6/15/2024,Credit Card,66,Male,Europe
+623,T00623,Laptop,MacBook Pro,3,1216.39,3.75,1170.78,5/15/2023,Debit Card,39,Male,Asia
+624,T00624,Laptop,MacBook Pro,6,2804.1,23.87,2134.76,9/20/2024,PayPal,53,Male,Africa
+625,T00625,Smartwatch,Samsung Galaxy Watch 4,2,1840.31,12.55,1609.35,6/27/2023,Credit Card,42,Male,Asia
+626,T00626,Smartwatch,Samsung Galaxy Watch 4,6,2896.23,29.49,2042.13,6/6/2023,PayPal,26,Male,South America
+627,T00627,TV,LG OLED,9,1893.22,5.75,1784.36,6/22/2024,Debit Card,22,Male,Europe
+628,T00628,Smartwatch,Samsung Galaxy Watch 4,9,2645.83,4.88,2516.71,10/22/2024,Credit Card,45,Male,North America
+629,T00629,Laptop,MacBook Pro,1,331.12,25.41,246.98,9/26/2023,PayPal,59,Male,Europe
+630,T00630,Smartwatch,Samsung Galaxy Watch 4,8,672.91,2.7,654.74,1/15/2024,PayPal,53,Female,North America
+631,T00631,Headphones,Bose 700,3,1409.43,11.36,1249.32,1/2/2025,PayPal,50,Male,Asia
+632,T00632,Headphones,Bose 700,4,527.44,20.83,417.57,3/20/2024,PayPal,23,Male,Africa
+633,T00633,Mobile,Samsung Galaxy S22,9,2159.09,16.97,1792.69,4/26/2023,Credit Card,22,Female,Africa
+634,T00634,Mobile,Google Pixel 6,2,1449.74,4.36,1386.53,2/15/2025,PayPal,52,Female,Africa
+635,T00635,Headphones,AirPods Pro,1,1900.73,25.28,1420.23,8/4/2024,Debit Card,53,Female,South America
+636,T00636,Mobile,Google Pixel 6,2,2110.05,10.9,1880.05,3/19/2024,PayPal,31,Female,Europe
+637,T00637,Headphones,Bose 700,1,1856.38,5.3,1757.99,7/3/2023,PayPal,34,Female,Europe
+638,T00638,Laptop,HP Spectre x360,4,325.25,6.39,304.47,10/3/2023,Debit Card,47,Male,Asia
+639,T00639,Mobile,Samsung Galaxy S22,2,2356.05,4.97,2238.95,8/18/2024,Debit Card,62,Male,South America
+640,T00640,Laptop,HP Spectre x360,9,1108.72,11.86,977.23,1/15/2024,PayPal,46,Male,Africa
+641,T00641,Laptop,Dell XPS 15,8,2219.57,1.45,2187.39,11/13/2023,Credit Card,40,Male,South America
+642,T00642,Smartwatch,Apple Watch Series 7,6,632.94,25.81,469.58,8/19/2024,Credit Card,26,Female,Africa
+643,T00643,TV,Samsung QLED,3,2829.85,3.94,2718.35,1/26/2024,Cash,66,Male,Africa
+644,T00644,Laptop,HP Spectre x360,4,2568.89,29.82,1802.85,1/25/2024,Credit Card,33,Female,Africa
+645,T00645,Laptop,HP Spectre x360,1,2769.49,11.28,2457.09,10/22/2023,PayPal,32,Female,Asia
+646,T00646,Laptop,HP Spectre x360,6,603,4.08,578.4,3/15/2024,Debit Card,36,Male,Europe
+647,T00647,TV,LG OLED,5,425.59,2.7,414.1,5/12/2023,Credit Card,34,Female,North America
+648,T00648,Headphones,AirPods Pro,8,145.91,26.29,107.55,2/12/2025,Credit Card,55,Female,South America
+649,T00649,Mobile,Samsung Galaxy S22,4,460.44,27.78,332.53,2/17/2025,PayPal,39,Male,Africa
+650,T00650,Mobile,iPhone 13,1,2519.9,18.82,2045.65,1/7/2024,Cash,34,Male,South America
+651,T00651,Headphones,AirPods Pro,9,747.64,0.13,746.67,3/26/2023,Credit Card,38,Female,South America
+652,T00652,Smartwatch,Samsung Galaxy Watch 4,5,2072.83,20.28,1652.46,11/28/2024,Debit Card,22,Male,South America
+653,T00653,TV,LG OLED,8,1327.16,17.53,1094.51,11/22/2023,Debit Card,61,Female,South America
+654,T00654,Laptop,HP Spectre x360,6,2826.68,7.63,2611,3/2/2024,Credit Card,63,Female,Africa
+655,T00655,Laptop,MacBook Pro,3,2782.31,15.46,2352.16,2/18/2024,Cash,60,Female,South America
+656,T00656,TV,LG OLED,4,1917.5,9.47,1735.91,1/9/2024,Debit Card,62,Female,North America
+657,T00657,Laptop,Dell XPS 15,8,2550.59,0.86,2528.65,6/4/2024,Cash,21,Male,Europe
+658,T00658,Mobile,Google Pixel 6,3,1037.74,24.36,784.95,7/6/2024,Debit Card,32,Male,Asia
+659,T00659,Smartwatch,Garmin Forerunner,8,1218.15,8.3,1117.04,7/13/2023,PayPal,64,Female,Europe
+660,T00660,Smartwatch,Samsung Galaxy Watch 4,6,1173.5,1.65,1154.14,6/18/2023,PayPal,55,Female,South America
+661,T00661,Laptop,MacBook Pro,4,1202.47,18.13,984.46,4/11/2023,Cash,67,Female,Asia
+662,T00662,TV,Samsung QLED,1,2816.61,14.37,2411.86,12/13/2024,Cash,38,Female,Europe
+663,T00663,Headphones,Sony WH-1000XM4,4,2760.16,6.52,2580.2,9/9/2024,Debit Card,31,Male,South America
+664,T00664,Smartwatch,Apple Watch Series 7,6,1009.58,28.16,725.28,10/19/2023,PayPal,34,Female,Asia
+665,T00665,Smartwatch,Garmin Forerunner,9,499.72,9.72,451.15,10/17/2024,Credit Card,51,Male,Africa
+666,T00666,Laptop,HP Spectre x360,6,2366.34,27.23,1721.99,5/31/2023,Credit Card,62,Male,North America
+667,T00667,Mobile,Samsung Galaxy S22,7,2485.72,14.06,2136.23,6/8/2024,Cash,33,Female,South America
+668,T00668,Laptop,MacBook Pro,8,273.74,23.99,208.07,7/21/2024,Debit Card,34,Female,Europe
+669,T00669,TV,Samsung QLED,6,2579.84,13.33,2235.95,3/16/2023,Debit Card,35,Female,North America
+670,T00670,TV,Samsung QLED,4,2250.12,26.15,1661.71,6/17/2024,PayPal,31,Male,Asia
+671,T00671,Smartwatch,Samsung Galaxy Watch 4,9,1589.48,22.54,1231.21,9/24/2024,Debit Card,61,Male,Asia
+672,T00672,Laptop,HP Spectre x360,10,2091.73,2.27,2044.25,7/3/2024,Cash,42,Male,Asia
+673,T00673,Headphones,Bose 700,2,178.5,14.17,153.21,5/8/2024,PayPal,31,Female,South America
+674,T00674,TV,Samsung QLED,6,398.39,24.92,299.11,8/15/2024,Cash,57,Male,South America
+675,T00675,Laptop,Dell XPS 15,6,2769.56,26.8,2027.32,8/14/2024,PayPal,42,Male,Asia
+676,T00676,Laptop,MacBook Pro,5,1551.25,3.11,1503.01,1/13/2025,Cash,23,Female,Africa
+677,T00677,TV,LG OLED,5,2939.87,28.03,2115.82,1/13/2025,Debit Card,43,Female,South America
+678,T00678,Mobile,iPhone 13,5,2265.47,4.91,2154.24,5/30/2023,Debit Card,66,Female,North America
+679,T00679,Mobile,Samsung Galaxy S22,4,1362.11,25.79,1010.82,11/5/2023,Credit Card,25,Female,North America
+680,T00680,Headphones,AirPods Pro,9,1269.01,1.53,1249.59,8/18/2023,Credit Card,30,Female,North America
+681,T00681,Smartwatch,Apple Watch Series 7,6,1091.9,24.85,820.56,3/27/2023,Cash,66,Male,Europe
+682,T00682,TV,Samsung QLED,4,2482.41,25.22,1856.35,7/11/2024,Debit Card,70,Female,South America
+683,T00683,Smartwatch,Samsung Galaxy Watch 4,5,1639.47,19.9,1313.22,11/16/2023,Cash,48,Female,South America
+684,T00684,Smartwatch,Samsung Galaxy Watch 4,9,2679.2,25.95,1983.95,4/19/2023,Cash,33,Female,North America
+685,T00685,Laptop,HP Spectre x360,7,2346.17,22.96,1807.49,5/2/2024,Credit Card,62,Female,North America
+686,T00686,Mobile,Samsung Galaxy S22,10,453.67,28.15,325.96,3/22/2024,Cash,65,Male,Asia
+687,T00687,Smartwatch,Apple Watch Series 7,9,2568.69,6.08,2412.51,11/15/2024,Debit Card,69,Female,Asia
+688,T00688,Headphones,Bose 700,6,1430.51,22.67,1106.21,1/10/2025,Credit Card,18,Female,Europe
+689,T00689,Mobile,Samsung Galaxy S22,7,790.72,22.92,609.49,4/20/2024,Credit Card,65,Male,Europe
+690,T00690,Headphones,Bose 700,3,1186.3,19.33,956.99,6/2/2024,Debit Card,54,Male,North America
+691,T00691,Headphones,AirPods Pro,4,2433.17,15.59,2053.84,11/28/2024,Credit Card,47,Female,South America
+692,T00692,Laptop,HP Spectre x360,4,804.4,15.62,678.75,11/17/2024,PayPal,60,Female,Asia
+693,T00693,Mobile,Google Pixel 6,1,960.66,6.33,899.85,8/5/2023,Credit Card,39,Female,Europe
+694,T00694,Headphones,AirPods Pro,4,2258.92,1.5,2225.04,12/27/2024,Cash,18,Male,South America
+695,T00695,Headphones,Bose 700,6,1037.03,7.75,956.66,3/11/2023,Cash,59,Male,Europe
+696,T00696,Mobile,Google Pixel 6,6,1444.76,8.84,1317.04,6/25/2023,Cash,19,Male,Asia
+697,T00697,Smartwatch,Apple Watch Series 7,9,1815.45,13.16,1576.54,3/21/2024,Credit Card,65,Male,Asia
+698,T00698,Smartwatch,Garmin Forerunner,2,2964.03,10.81,2643.62,5/11/2024,Cash,29,Female,South America
+699,T00699,Smartwatch,Garmin Forerunner,7,1209.08,17.78,994.11,3/10/2024,Cash,49,Male,Asia
+700,T00700,Laptop,MacBook Pro,4,116.73,7.1,108.44,6/20/2023,Debit Card,57,Male,South America
+701,T00701,TV,Sony Bravia,8,1230.01,8.02,1131.36,7/12/2024,Credit Card,19,Male,Asia
+702,T00702,TV,Sony Bravia,10,1248.02,12.39,1093.39,2/6/2025,PayPal,19,Female,Africa
+703,T00703,Headphones,AirPods Pro,9,2125.72,8.12,1953.11,7/7/2024,Cash,46,Female,Africa
+704,T00704,Mobile,iPhone 13,5,1097.86,15.04,932.74,7/17/2023,Debit Card,53,Female,South America
+705,T00705,Smartwatch,Samsung Galaxy Watch 4,9,2791.13,13.84,2404.84,7/25/2023,PayPal,23,Male,Europe
+706,T00706,TV,LG OLED,8,626.18,18.06,513.09,11/20/2024,Cash,49,Female,Asia
+707,T00707,Smartwatch,Samsung Galaxy Watch 4,5,746.44,18.04,611.78,12/26/2023,PayPal,38,Male,Africa
+708,T00708,Headphones,AirPods Pro,4,2037.98,11.9,1795.46,1/15/2025,Credit Card,29,Male,Europe
+709,T00709,TV,Sony Bravia,6,1825.2,12.29,1600.88,11/30/2024,Cash,62,Male,Europe
+710,T00710,Mobile,iPhone 13,9,1349.54,17.28,1116.34,4/2/2024,PayPal,26,Male,Europe
+711,T00711,Smartwatch,Garmin Forerunner,4,2584.25,14.03,2221.68,7/13/2024,PayPal,43,Female,Asia
+712,T00712,Smartwatch,Samsung Galaxy Watch 4,7,2573.09,18.5,2097.07,3/11/2023,PayPal,46,Male,Asia
+713,T00713,Laptop,MacBook Pro,7,1437.56,24.87,1080.04,3/23/2024,Credit Card,60,Male,Africa
+714,T00714,Mobile,iPhone 13,6,735.92,23.3,564.45,9/20/2024,Cash,41,Female,Africa
+715,T00715,TV,Sony Bravia,2,1738.21,4.45,1660.86,6/3/2023,Cash,36,Male,Asia
+716,T00716,Laptop,Dell XPS 15,6,774.46,5.35,733.03,9/30/2024,Credit Card,59,Female,Europe
+717,T00717,Headphones,Bose 700,3,1594.6,7.77,1470.7,6/20/2023,Cash,29,Male,Europe
+718,T00718,Laptop,MacBook Pro,7,1270.95,26.67,931.99,5/13/2024,PayPal,66,Female,Europe
+719,T00719,TV,Sony Bravia,4,2137.6,12.47,1871.04,6/13/2024,PayPal,62,Female,Africa
+720,T00720,Headphones,Sony WH-1000XM4,8,2905.69,8.22,2666.84,5/17/2024,PayPal,66,Female,North America
+721,T00721,Smartwatch,Garmin Forerunner,4,2203.8,26.47,1620.45,6/11/2023,Credit Card,59,Male,North America
+722,T00722,Headphones,Sony WH-1000XM4,6,975.29,19.55,784.62,8/11/2024,Credit Card,62,Female,Europe
+723,T00723,Smartwatch,Apple Watch Series 7,4,1141.98,17.64,940.53,5/25/2023,PayPal,24,Female,Africa
+724,T00724,Headphones,Bose 700,9,1131.86,22.17,880.93,1/5/2025,Cash,18,Female,Africa
+725,T00725,Smartwatch,Garmin Forerunner,4,824.92,14.67,703.9,9/2/2024,Debit Card,22,Male,North America
+726,T00726,Headphones,AirPods Pro,4,2184.08,13.36,1892.29,8/12/2023,Debit Card,64,Female,Asia
+727,T00727,Smartwatch,Garmin Forerunner,8,1328.85,24.3,1005.94,4/7/2024,Credit Card,26,Male,North America
+728,T00728,Laptop,HP Spectre x360,6,1000.95,8.64,914.47,12/7/2023,Cash,33,Male,North America
+729,T00729,Laptop,Dell XPS 15,4,2773.58,26.07,2050.51,1/27/2025,Debit Card,29,Male,Asia
+730,T00730,Headphones,Bose 700,2,1273.6,27.03,929.35,6/19/2023,PayPal,30,Female,South America
+731,T00731,Mobile,Google Pixel 6,10,2653.29,26.43,1952.03,1/17/2024,Credit Card,56,Male,Africa
+732,T00732,Laptop,MacBook Pro,10,1205.89,23.04,928.05,2/19/2025,Cash,32,Male,South America
+733,T00733,Headphones,Sony WH-1000XM4,3,1984.46,2.11,1942.59,9/11/2024,Credit Card,44,Male,South America
+734,T00734,Headphones,Bose 700,10,2618.18,18.19,2141.93,2/26/2023,Debit Card,47,Female,Europe
+735,T00735,Mobile,iPhone 13,7,498.76,17.43,411.83,5/19/2023,Debit Card,38,Male,Asia
+736,T00736,Laptop,HP Spectre x360,10,1031.23,27.53,747.33,3/4/2023,Cash,52,Female,South America
+737,T00737,Laptop,MacBook Pro,1,155.42,25.39,115.96,11/10/2023,Credit Card,41,Female,Africa
+738,T00738,Mobile,Samsung Galaxy S22,3,2215.65,26.99,1617.65,11/11/2024,Cash,19,Male,South America
+739,T00739,Laptop,HP Spectre x360,7,209.44,21.12,165.21,9/5/2023,Credit Card,38,Male,North America
+740,T00740,Headphones,Bose 700,7,2966.67,7.18,2753.66,5/4/2023,Debit Card,57,Female,Africa
+741,T00741,Headphones,AirPods Pro,5,2156.7,29.98,1510.12,8/3/2024,Cash,64,Male,Africa
+742,T00742,TV,Sony Bravia,3,511.91,19.09,414.19,11/17/2023,PayPal,27,Female,North America
+743,T00743,Headphones,Sony WH-1000XM4,2,2020.71,5.29,1913.81,4/21/2024,Debit Card,67,Male,South America
+744,T00744,Mobile,iPhone 13,1,1633.28,10.48,1462.11,8/18/2024,PayPal,34,Female,Europe
+745,T00745,Mobile,Samsung Galaxy S22,3,216.47,12.4,189.63,5/26/2023,Credit Card,59,Male,South America
+746,T00746,Headphones,AirPods Pro,4,2393.54,19.05,1937.57,1/28/2025,Cash,59,Female,Asia
+747,T00747,Mobile,iPhone 13,8,2191.96,4.18,2100.34,11/12/2023,Debit Card,19,Male,Europe
+748,T00748,Headphones,Bose 700,6,1790.14,26.37,1318.08,4/22/2023,PayPal,34,Male,North America
+749,T00749,TV,Samsung QLED,7,1359.89,17.74,1118.65,7/31/2023,Debit Card,36,Female,North America
+750,T00750,Smartwatch,Samsung Galaxy Watch 4,2,470.36,11.46,416.46,7/10/2024,Credit Card,29,Female,Africa
+751,T00751,Headphones,Bose 700,10,1353.1,3,1312.51,3/10/2023,Credit Card,30,Male,North America
+752,T00752,TV,Samsung QLED,7,1379.17,15.23,1169.12,8/8/2024,Credit Card,32,Female,North America
+753,T00753,Mobile,iPhone 13,1,1092.3,4.11,1047.41,5/3/2024,Debit Card,26,Female,Europe
+754,T00754,TV,LG OLED,2,1417.58,25.73,1052.84,8/18/2024,Debit Card,23,Male,Africa
+755,T00755,Headphones,Bose 700,7,2958.47,20.44,2353.76,7/19/2023,Debit Card,53,Male,North America
+756,T00756,Laptop,Dell XPS 15,1,147.49,23.88,112.27,10/23/2024,Debit Card,34,Male,Asia
+757,T00757,Laptop,Dell XPS 15,4,170.76,2.71,166.13,2/18/2025,Credit Card,68,Female,Europe
+758,T00758,Laptop,Dell XPS 15,7,1589.99,19.2,1284.71,12/11/2023,Cash,32,Male,Europe
+759,T00759,Laptop,Dell XPS 15,3,2780.32,17.47,2294.6,5/15/2024,Credit Card,29,Female,South America
+760,T00760,Mobile,iPhone 13,6,2546.58,21.4,2001.61,11/1/2024,Debit Card,67,Male,Europe
+761,T00761,TV,Sony Bravia,6,2870.44,29.96,2010.46,8/11/2024,Credit Card,49,Male,Africa
+762,T00762,Laptop,MacBook Pro,3,2551.17,3.02,2474.12,9/20/2023,Cash,65,Male,North America
+763,T00763,Smartwatch,Garmin Forerunner,4,2072.54,22.72,1601.66,9/13/2023,Credit Card,32,Female,South America
+764,T00764,TV,Samsung QLED,4,1416.22,14.75,1207.33,3/6/2023,Cash,21,Female,North America
+765,T00765,Laptop,Dell XPS 15,6,2527.57,1.27,2495.47,8/25/2023,Credit Card,48,Female,Europe
+766,T00766,Smartwatch,Samsung Galaxy Watch 4,7,230.27,29.15,163.15,11/23/2024,Cash,47,Male,Asia
+767,T00767,Laptop,MacBook Pro,8,2140.89,11.4,1896.83,10/14/2024,Credit Card,64,Female,South America
+768,T00768,Mobile,Samsung Galaxy S22,1,269.83,10.02,242.79,11/17/2024,Cash,53,Male,Asia
+769,T00769,Laptop,HP Spectre x360,6,1809.65,29.28,1279.78,9/3/2023,Debit Card,62,Female,North America
+770,T00770,Laptop,Dell XPS 15,5,385.64,11.86,339.9,7/12/2023,Debit Card,47,Female,Asia
+771,T00771,Mobile,Samsung Galaxy S22,1,264.77,17.85,217.51,11/20/2024,Debit Card,69,Male,Europe
+772,T00772,Smartwatch,Apple Watch Series 7,2,636.57,18.16,520.97,2/8/2024,Cash,40,Male,Africa
+773,T00773,Mobile,Google Pixel 6,1,2353.34,23.93,1790.19,3/2/2023,Debit Card,37,Male,South America
+774,T00774,Smartwatch,Samsung Galaxy Watch 4,10,938.13,26.32,691.21,11/12/2023,PayPal,28,Female,North America
+775,T00775,Laptop,MacBook Pro,7,2079.38,4.35,1988.93,5/26/2023,Cash,55,Male,South America
+776,T00776,Smartwatch,Samsung Galaxy Watch 4,2,1786.06,12.49,1562.98,1/9/2025,PayPal,22,Female,South America
+777,T00777,Mobile,Google Pixel 6,9,1673.76,28.14,1202.76,8/31/2023,Debit Card,69,Female,Europe
+778,T00778,Mobile,Google Pixel 6,10,2710.52,21.63,2124.23,11/20/2024,PayPal,36,Male,South America
+779,T00779,TV,Sony Bravia,2,1160.72,9.78,1047.2,10/6/2024,Cash,65,Female,South America
+780,T00780,TV,LG OLED,9,1501.48,1.04,1485.86,7/26/2023,Cash,29,Male,South America
+781,T00781,TV,LG OLED,8,2410.99,24.62,1817.4,8/5/2024,Debit Card,49,Female,North America
+782,T00782,Smartwatch,Apple Watch Series 7,8,331.24,12.33,290.4,12/17/2023,Cash,56,Male,Europe
+783,T00783,Smartwatch,Apple Watch Series 7,2,1571.56,8.88,1432.01,6/1/2023,Debit Card,66,Male,Asia
+784,T00784,Smartwatch,Apple Watch Series 7,7,1080.54,8.72,986.32,7/21/2023,Cash,64,Male,Africa
+785,T00785,Headphones,Sony WH-1000XM4,2,2319.23,25.94,1717.62,7/25/2024,Credit Card,68,Female,Asia
+786,T00786,Mobile,Samsung Galaxy S22,7,2244.95,8.35,2057.5,6/15/2024,Cash,20,Male,Africa
+787,T00787,TV,LG OLED,3,1804.3,20.97,1425.94,4/1/2023,PayPal,58,Female,Asia
+788,T00788,Headphones,Sony WH-1000XM4,7,329.41,5.1,312.61,8/18/2024,Cash,18,Male,North America
+789,T00789,Mobile,iPhone 13,6,213.42,7.93,196.5,11/9/2023,Cash,18,Male,Africa
+790,T00790,Smartwatch,Garmin Forerunner,7,2419.49,21.67,1895.19,6/3/2024,Debit Card,35,Male,North America
+791,T00791,Smartwatch,Garmin Forerunner,3,804.88,0.55,800.45,6/17/2024,Credit Card,64,Male,North America
+792,T00792,Laptop,MacBook Pro,9,853.94,6.88,795.19,1/19/2024,Cash,24,Male,South America
+793,T00793,Headphones,Sony WH-1000XM4,2,546.44,7.32,506.44,6/23/2024,PayPal,53,Female,South America
+794,T00794,Mobile,Samsung Galaxy S22,2,855.68,29.25,605.39,8/21/2023,Credit Card,34,Male,Asia
+795,T00795,Mobile,Google Pixel 6,5,1078.29,3.92,1036.02,10/26/2023,PayPal,67,Female,Asia
+796,T00796,Mobile,Google Pixel 6,10,1702.13,22.72,1315.41,5/14/2023,Cash,58,Female,South America
+797,T00797,TV,Sony Bravia,10,595.1,27.61,430.79,10/27/2023,Credit Card,38,Male,Africa
+798,T00798,Laptop,HP Spectre x360,4,2557.98,20.36,2037.18,2/10/2024,Credit Card,55,Male,South America
+799,T00799,Laptop,MacBook Pro,2,846.77,20.83,670.39,11/8/2024,Cash,28,Male,Africa
+800,T00800,Mobile,iPhone 13,3,1730.75,17.87,1421.46,3/31/2023,Credit Card,25,Male,Europe
+801,T00801,Headphones,Bose 700,1,2749.58,11.95,2421.01,6/27/2024,Credit Card,43,Female,North America
+802,T00802,Mobile,iPhone 13,7,272.72,21.73,213.46,8/29/2024,Cash,45,Male,Asia
+803,T00803,TV,LG OLED,3,600.68,3.43,580.08,1/10/2024,Cash,56,Female,Africa
+804,T00804,Headphones,AirPods Pro,6,56.63,26.29,41.74,11/14/2024,Cash,60,Male,Africa
+805,T00805,Headphones,Bose 700,2,2220,5.98,2087.24,2/1/2024,Debit Card,43,Male,Africa
+806,T00806,TV,LG OLED,9,1151.68,12.05,1012.9,1/11/2025,Debit Card,63,Female,Europe
+807,T00807,Laptop,Dell XPS 15,7,204.76,6.4,191.66,6/6/2024,Credit Card,22,Male,South America
+808,T00808,Headphones,Sony WH-1000XM4,10,2987.91,24.97,2241.83,9/10/2024,Debit Card,24,Female,Europe
+809,T00809,Headphones,Sony WH-1000XM4,2,2701.25,9.9,2433.83,7/3/2023,Cash,51,Female,Europe
+810,T00810,Smartwatch,Garmin Forerunner,4,443.54,2.58,432.1,3/28/2024,PayPal,39,Male,Africa
+811,T00811,TV,Sony Bravia,2,2984.07,2.01,2924.09,12/27/2023,Credit Card,52,Female,North America
+812,T00812,Mobile,iPhone 13,3,1447.13,0.94,1433.53,8/12/2024,Cash,42,Male,Asia
+813,T00813,Laptop,HP Spectre x360,3,720.19,0.05,719.83,3/21/2023,Debit Card,41,Female,Europe
+814,T00814,Laptop,MacBook Pro,4,2081.64,17.02,1727.34,7/20/2023,Credit Card,43,Female,South America
+815,T00815,Smartwatch,Samsung Galaxy Watch 4,1,1807.09,3.95,1735.71,2/27/2024,Debit Card,25,Male,Europe
+816,T00816,Smartwatch,Apple Watch Series 7,2,2397.75,22.42,1860.17,3/8/2023,PayPal,25,Male,Africa
+817,T00817,Mobile,iPhone 13,7,2154.5,20.67,1709.16,10/3/2024,Cash,54,Female,Europe
+818,T00818,Mobile,iPhone 13,9,2642.54,16.63,2203.09,5/6/2023,PayPal,38,Female,South America
+819,T00819,Laptop,Dell XPS 15,4,467.3,23.97,355.29,5/18/2023,Debit Card,47,Male,North America
+820,T00820,TV,Samsung QLED,3,1356.34,21.62,1063.1,2/2/2025,Credit Card,40,Male,Europe
+821,T00821,Smartwatch,Garmin Forerunner,2,2442.88,12.83,2129.46,2/23/2025,Credit Card,32,Female,South America
+822,T00822,Smartwatch,Garmin Forerunner,3,2566.78,12.77,2239,3/20/2024,Credit Card,61,Male,Europe
+823,T00823,Headphones,Bose 700,5,1487.19,14,1278.98,7/11/2024,Debit Card,67,Male,North America
+824,T00824,Smartwatch,Samsung Galaxy Watch 4,2,883.48,17.59,728.08,12/7/2024,Credit Card,70,Female,Europe
+825,T00825,Smartwatch,Apple Watch Series 7,8,879.55,26.59,645.68,8/3/2024,Cash,31,Female,South America
+826,T00826,Mobile,iPhone 13,3,2679.94,4.91,2548.35,5/21/2023,Debit Card,62,Female,Asia
+827,T00827,Headphones,Bose 700,2,2644.72,5.19,2507.46,3/8/2023,Credit Card,50,Male,Europe
+828,T00828,Smartwatch,Apple Watch Series 7,1,624.62,25.9,462.84,3/18/2023,Cash,30,Female,Africa
+829,T00829,Smartwatch,Apple Watch Series 7,10,101.19,15.19,85.82,6/24/2023,PayPal,62,Female,North America
+830,T00830,Laptop,HP Spectre x360,3,1719.37,11.87,1515.28,5/28/2023,Debit Card,27,Female,Asia
+831,T00831,TV,LG OLED,2,778.15,17.15,644.7,4/3/2023,Cash,28,Male,South America
+832,T00832,TV,Samsung QLED,3,2774.29,3.92,2665.54,11/24/2024,Debit Card,33,Male,North America
+833,T00833,TV,LG OLED,10,973.89,1.7,957.33,9/15/2024,PayPal,64,Female,Africa
+834,T00834,TV,Sony Bravia,9,2047.42,27.87,1476.8,10/23/2024,Cash,69,Female,Africa
+835,T00835,Smartwatch,Samsung Galaxy Watch 4,7,2544.66,23.72,1941.07,3/15/2023,Credit Card,37,Male,South America
+836,T00836,Mobile,Samsung Galaxy S22,10,947.26,9.56,856.7,7/13/2024,Cash,55,Female,North America
+837,T00837,Headphones,AirPods Pro,3,390.85,7.73,360.64,10/3/2024,Cash,25,Female,Europe
+838,T00838,Smartwatch,Samsung Galaxy Watch 4,2,1329.64,3.14,1287.89,8/8/2023,Cash,39,Male,South America
+839,T00839,Mobile,Google Pixel 6,8,550.06,29.15,389.72,2/26/2024,PayPal,52,Male,Africa
+840,T00840,TV,LG OLED,3,482.71,3.97,463.55,10/28/2024,Cash,55,Male,South America
+841,T00841,Mobile,Samsung Galaxy S22,8,415.38,1.81,407.86,2/7/2025,Cash,34,Male,Africa
+842,T00842,Laptop,Dell XPS 15,1,1328.95,10.67,1187.15,4/20/2023,Credit Card,24,Male,South America
+843,T00843,Mobile,Samsung Galaxy S22,6,888.76,10.82,792.6,1/10/2025,Debit Card,35,Female,South America
+844,T00844,Mobile,Samsung Galaxy S22,1,2870.07,24.22,2174.94,8/26/2024,PayPal,48,Male,South America
+845,T00845,Headphones,Bose 700,8,814.92,10.89,726.18,11/1/2024,Credit Card,59,Male,Africa
+846,T00846,Headphones,Sony WH-1000XM4,9,2657.02,26.13,1962.74,9/17/2024,Debit Card,21,Female,Africa
+847,T00847,Mobile,Google Pixel 6,5,1091.8,17.5,900.73,7/4/2024,Credit Card,61,Male,Asia
+848,T00848,TV,Samsung QLED,8,1350.76,29.24,955.8,12/7/2023,Credit Card,64,Male,Europe
+849,T00849,Laptop,MacBook Pro,9,1986.88,18.93,1610.76,2/10/2024,Credit Card,37,Male,Africa
+850,T00850,Laptop,Dell XPS 15,1,281.04,22.27,218.45,7/10/2024,Cash,41,Female,South America
+851,T00851,Smartwatch,Samsung Galaxy Watch 4,4,1139.19,22.97,877.52,11/2/2023,Credit Card,19,Male,Africa
+852,T00852,Mobile,Samsung Galaxy S22,4,471.05,17.65,387.91,10/28/2023,Credit Card,22,Male,Europe
+853,T00853,Headphones,Bose 700,1,1007.63,12.41,882.58,3/22/2023,Credit Card,31,Male,Asia
+854,T00854,Laptop,Dell XPS 15,5,680.02,29.06,482.41,8/29/2024,PayPal,65,Male,Europe
+855,T00855,Smartwatch,Samsung Galaxy Watch 4,8,1937.18,25.68,1439.71,3/28/2023,PayPal,40,Male,South America
+856,T00856,Headphones,Sony WH-1000XM4,10,2031.52,28.93,1443.8,4/16/2024,Debit Card,30,Male,South America
+857,T00857,Laptop,Dell XPS 15,3,2862.05,8.45,2620.21,1/16/2025,Credit Card,33,Female,Europe
+858,T00858,TV,Samsung QLED,9,2234.27,10.37,2002.58,11/10/2023,Debit Card,50,Male,South America
+859,T00859,Headphones,AirPods Pro,3,382.76,19.38,308.58,7/31/2023,Cash,35,Male,North America
+860,T00860,Headphones,Bose 700,6,1305.79,17.59,1076.1,7/22/2024,Cash,36,Female,Africa
+861,T00861,Laptop,HP Spectre x360,9,2556.31,24.99,1917.49,10/31/2023,Credit Card,45,Male,South America
+862,T00862,Mobile,iPhone 13,4,2658.42,20.6,2110.79,9/18/2024,Cash,35,Female,Africa
+863,T00863,Mobile,Samsung Galaxy S22,10,1811.05,28.07,1302.69,5/10/2024,Credit Card,64,Female,Asia
+864,T00864,Mobile,iPhone 13,6,2884.87,21.5,2264.62,8/30/2023,Debit Card,47,Male,Asia
+865,T00865,Mobile,Google Pixel 6,3,1310.91,11.75,1156.88,11/16/2024,PayPal,64,Female,Africa
+866,T00866,TV,Samsung QLED,5,1820.21,14.56,1555.19,4/21/2024,Debit Card,59,Female,Africa
+867,T00867,TV,Sony Bravia,4,426.65,15.47,360.65,2/22/2024,Credit Card,47,Female,North America
+868,T00868,Headphones,Sony WH-1000XM4,1,619.84,3.78,596.41,2/13/2025,Debit Card,54,Female,Asia
+869,T00869,Mobile,Google Pixel 6,5,2067.47,29.73,1452.81,2/22/2024,Credit Card,58,Female,North America
+870,T00870,Smartwatch,Samsung Galaxy Watch 4,5,2501.09,7.87,2304.25,10/31/2023,PayPal,64,Female,South America
+871,T00871,Laptop,HP Spectre x360,1,1642.99,14.49,1404.92,2/10/2024,Cash,27,Male,Africa
+872,T00872,Headphones,AirPods Pro,5,1512.89,9.01,1376.58,2/3/2025,Cash,19,Male,Asia
+873,T00873,Headphones,Sony WH-1000XM4,7,1487.48,5.47,1406.11,3/1/2023,Cash,67,Male,Africa
+874,T00874,Smartwatch,Samsung Galaxy Watch 4,10,502.63,6.79,468.5,6/22/2024,Credit Card,61,Female,South America
+875,T00875,Smartwatch,Garmin Forerunner,2,1277.18,9.97,1149.85,7/17/2024,Cash,68,Male,Europe
+876,T00876,Mobile,iPhone 13,1,2183.47,25.02,1637.17,7/17/2024,Debit Card,30,Male,Europe
+877,T00877,TV,LG OLED,7,870.16,20.91,688.21,3/13/2023,Cash,68,Female,South America
+878,T00878,Smartwatch,Apple Watch Series 7,2,2699.25,22.79,2084.09,4/25/2024,PayPal,29,Female,South America
+879,T00879,Laptop,MacBook Pro,8,1349.42,5.21,1279.12,3/6/2023,Cash,70,Male,Europe
+880,T00880,Smartwatch,Garmin Forerunner,4,2292.11,28.71,1634.05,9/30/2023,PayPal,51,Female,South America
+881,T00881,Headphones,Sony WH-1000XM4,9,1057.4,15.05,898.26,3/27/2023,PayPal,69,Male,North America
+882,T00882,TV,Samsung QLED,4,1266.65,10.92,1128.33,1/13/2024,PayPal,23,Female,Asia
+883,T00883,Laptop,MacBook Pro,5,883.67,2,866,6/6/2024,PayPal,49,Male,Europe
+884,T00884,Headphones,Bose 700,8,824.23,2.32,805.11,5/6/2023,Debit Card,58,Female,Africa
+885,T00885,Laptop,HP Spectre x360,8,2273.88,16.91,1889.37,9/26/2023,Debit Card,41,Female,Europe
+886,T00886,Mobile,Samsung Galaxy S22,4,1596.77,16.81,1328.35,6/30/2023,PayPal,66,Male,Europe
+887,T00887,Smartwatch,Samsung Galaxy Watch 4,6,2812.59,26,2081.32,7/26/2023,Cash,46,Female,South America
+888,T00888,Laptop,Dell XPS 15,8,2829.02,4.72,2695.49,7/2/2023,Credit Card,42,Male,Africa
+889,T00889,Laptop,Dell XPS 15,3,888.81,7.01,826.5,9/26/2024,PayPal,44,Male,Africa
+890,T00890,Headphones,Bose 700,10,1295.16,20.62,1028.1,4/1/2024,Cash,56,Female,Asia
+891,T00891,TV,Samsung QLED,7,2968.72,20.45,2361.62,1/31/2025,Debit Card,58,Female,Europe
+892,T00892,Headphones,AirPods Pro,5,2226.72,10.08,2002.27,2/25/2024,Cash,48,Male,Asia
+893,T00893,Laptop,HP Spectre x360,5,2201.35,27.41,1597.96,10/26/2024,Credit Card,33,Male,Asia
+894,T00894,TV,Samsung QLED,7,324.16,18.18,265.23,5/4/2023,Credit Card,65,Male,Africa
+895,T00895,Smartwatch,Garmin Forerunner,6,2507.33,4.03,2406.28,1/31/2025,PayPal,47,Male,Europe
+896,T00896,TV,Sony Bravia,1,1983.6,1.74,1949.09,11/28/2024,Credit Card,41,Female,Europe
+897,T00897,Laptop,Dell XPS 15,9,1833.7,3.98,1760.72,2/6/2024,Credit Card,64,Female,North America
+898,T00898,TV,Sony Bravia,7,2731.6,8.31,2504.6,1/17/2025,PayPal,49,Male,North America
+899,T00899,Laptop,Dell XPS 15,7,1487.92,22.02,1160.28,5/29/2024,PayPal,61,Male,South America
+900,T00900,TV,Samsung QLED,6,920.75,14.02,791.66,5/14/2023,Cash,54,Male,Asia
+901,T00901,Smartwatch,Garmin Forerunner,4,1558.3,12.27,1367.1,10/16/2024,Debit Card,35,Female,South America
+902,T00902,Smartwatch,Garmin Forerunner,8,838.12,18.9,679.72,6/3/2024,Cash,49,Male,Asia
+903,T00903,Mobile,Google Pixel 6,6,770.19,2.09,754.09,12/20/2024,Credit Card,18,Male,South America
+904,T00904,Smartwatch,Garmin Forerunner,2,1591.98,16.15,1334.88,9/27/2023,Cash,35,Male,Asia
+905,T00905,Laptop,Dell XPS 15,10,1074.59,26.73,787.35,3/30/2023,Credit Card,64,Male,Africa
+906,T00906,Mobile,iPhone 13,8,1589.86,22.29,1235.48,4/1/2023,Cash,22,Male,South America
+907,T00907,Laptop,MacBook Pro,6,1577.28,26.87,1153.46,6/30/2024,Credit Card,25,Female,South America
+908,T00908,Laptop,HP Spectre x360,4,2209.56,22.64,1709.32,10/5/2024,PayPal,56,Female,South America
+909,T00909,Mobile,Google Pixel 6,2,2555.4,2.24,2498.16,11/14/2024,Debit Card,23,Female,Europe
+910,T00910,Smartwatch,Garmin Forerunner,3,2426.89,6.24,2275.45,6/14/2024,Cash,68,Female,North America
+911,T00911,Smartwatch,Samsung Galaxy Watch 4,4,1558.64,8.37,1428.18,12/9/2024,PayPal,28,Female,North America
+912,T00912,Laptop,HP Spectre x360,8,169.42,11.08,150.65,3/28/2023,Credit Card,70,Male,South America
+913,T00913,Mobile,Google Pixel 6,7,214.89,22.35,166.86,2/15/2025,Cash,66,Male,North America
+914,T00914,Headphones,Bose 700,4,144.31,24.25,109.31,12/9/2024,PayPal,29,Female,North America
+915,T00915,TV,Samsung QLED,1,1679.08,26.95,1226.57,2/14/2025,Credit Card,30,Female,Africa
+916,T00916,Mobile,Google Pixel 6,3,932.45,15.81,785.03,1/13/2024,Cash,45,Female,Europe
+917,T00917,Laptop,MacBook Pro,6,2753.73,21.63,2158.1,3/20/2024,Debit Card,22,Male,North America
+918,T00918,Mobile,Samsung Galaxy S22,5,916.62,20.06,732.75,5/28/2023,Cash,58,Female,Europe
+919,T00919,TV,LG OLED,4,1844.76,8.45,1688.88,1/29/2024,Cash,25,Male,Africa
+920,T00920,Laptop,Dell XPS 15,7,939.88,7.15,872.68,5/10/2023,PayPal,38,Female,South America
+921,T00921,Headphones,AirPods Pro,8,2415.4,17.15,2001.16,4/12/2023,Cash,53,Female,Asia
+922,T00922,Headphones,Sony WH-1000XM4,5,688.35,13.59,594.8,7/6/2024,PayPal,67,Female,Africa
+923,T00923,TV,Samsung QLED,8,2261.73,8.85,2061.57,9/18/2024,Credit Card,25,Female,North America
+924,T00924,Laptop,Dell XPS 15,6,1614.13,14.02,1387.83,8/31/2024,Credit Card,48,Female,Europe
+925,T00925,TV,Sony Bravia,9,1804.82,17.43,1490.24,3/25/2024,Cash,56,Male,Africa
+926,T00926,Headphones,Sony WH-1000XM4,5,2584.94,3.59,2492.14,1/10/2024,PayPal,22,Male,North America
+927,T00927,Laptop,HP Spectre x360,7,517.68,20.77,410.16,12/2/2023,PayPal,21,Male,North America
+928,T00928,Mobile,Google Pixel 6,6,283.02,9.24,256.87,1/4/2025,Credit Card,37,Female,Europe
+929,T00929,Smartwatch,Apple Watch Series 7,7,2106.82,24.32,1594.44,7/27/2023,PayPal,64,Female,Europe
+930,T00930,Mobile,Google Pixel 6,9,2832.68,8.13,2602.38,3/19/2024,Debit Card,35,Male,Europe
+931,T00931,Smartwatch,Samsung Galaxy Watch 4,1,805.61,4.07,772.82,12/8/2023,Credit Card,42,Female,South America
+932,T00932,Headphones,AirPods Pro,10,1742.85,12.09,1532.14,3/20/2023,Cash,47,Female,Africa
+933,T00933,Laptop,HP Spectre x360,5,284.14,22.13,221.26,9/11/2024,Credit Card,62,Female,Africa
+934,T00934,Mobile,iPhone 13,9,1485.5,28.27,1065.55,4/27/2023,PayPal,48,Male,North America
+935,T00935,Mobile,iPhone 13,4,1928.47,24.35,1458.89,9/23/2023,Credit Card,26,Female,Africa
+936,T00936,Mobile,Google Pixel 6,3,358.45,13.77,309.09,9/20/2024,Debit Card,50,Male,South America
+937,T00937,Headphones,Bose 700,8,1058.07,25.72,785.93,7/9/2024,Debit Card,35,Male,Africa
+938,T00938,Laptop,MacBook Pro,9,908.26,26.99,663.12,7/1/2024,Debit Card,47,Male,South America
+939,T00939,Headphones,AirPods Pro,1,694.19,9.72,626.71,2/15/2025,Debit Card,19,Male,Africa
+940,T00940,TV,Sony Bravia,8,301.28,11.18,267.6,3/23/2023,Cash,29,Female,Africa
+941,T00941,Headphones,Sony WH-1000XM4,4,553.74,18.62,450.63,12/15/2024,PayPal,18,Female,North America
+942,T00942,TV,LG OLED,1,2114.05,3.37,2042.81,3/23/2024,PayPal,47,Male,Asia
+943,T00943,Laptop,MacBook Pro,5,1045.65,27.53,757.78,2/23/2024,Credit Card,44,Male,Asia
+944,T00944,Mobile,Samsung Galaxy S22,9,2957.44,29.78,2076.71,4/4/2023,Debit Card,49,Male,South America
+945,T00945,Smartwatch,Samsung Galaxy Watch 4,8,1736.61,29.38,1226.39,10/21/2023,Credit Card,69,Male,Asia
+946,T00946,Smartwatch,Apple Watch Series 7,8,1904.19,12.47,1666.74,9/11/2023,Debit Card,57,Male,Asia
+947,T00947,Mobile,Google Pixel 6,6,484.29,9.62,437.7,5/4/2023,PayPal,66,Female,South America
+948,T00948,Mobile,Samsung Galaxy S22,7,1384.35,8.52,1266.4,11/25/2024,PayPal,54,Male,Africa
+949,T00949,Headphones,Sony WH-1000XM4,5,762.42,20.56,605.67,7/21/2023,Debit Card,67,Male,Asia
+950,T00950,Mobile,Google Pixel 6,9,892.46,21.25,702.81,1/5/2024,Debit Card,51,Male,Africa
+951,T00951,Laptop,HP Spectre x360,10,1762.15,14.76,1502.06,6/5/2023,Credit Card,36,Female,Africa
+952,T00952,Headphones,AirPods Pro,5,2209.4,10.37,1980.29,6/16/2024,Credit Card,69,Female,Europe
+953,T00953,Mobile,Google Pixel 6,1,976.63,7.39,904.46,12/14/2023,PayPal,38,Female,North America
+954,T00954,TV,Samsung QLED,7,2915.86,1.26,2879.12,9/5/2023,Cash,47,Female,Asia
+955,T00955,Headphones,AirPods Pro,9,2199.13,22.25,1709.82,4/30/2023,Credit Card,67,Female,North America
+956,T00956,TV,Sony Bravia,1,1111.38,13.68,959.34,10/8/2023,Cash,26,Male,Europe
+957,T00957,Mobile,Google Pixel 6,1,315.99,5.29,299.27,11/23/2023,Cash,42,Female,Asia
+958,T00958,Laptop,HP Spectre x360,4,1064.3,25.49,793.01,5/6/2023,Cash,57,Male,Europe
+959,T00959,Laptop,MacBook Pro,6,1421.88,15.47,1201.92,7/16/2024,PayPal,35,Male,North America
+960,T00960,Laptop,Dell XPS 15,4,1188.96,7.3,1102.17,11/1/2024,PayPal,59,Male,Europe
+961,T00961,Laptop,MacBook Pro,8,2029.78,3.39,1960.97,2/24/2025,Cash,20,Male,North America
+962,T00962,Laptop,MacBook Pro,3,2017.1,4.9,1918.26,12/24/2024,Debit Card,33,Female,South America
+963,T00963,TV,LG OLED,3,2580.61,15.84,2171.84,3/17/2024,Credit Card,36,Male,Europe
+964,T00964,Mobile,Google Pixel 6,8,2837.29,20.52,2255.08,9/30/2023,Debit Card,32,Male,North America
+965,T00965,TV,Sony Bravia,10,419.34,22.5,324.99,1/29/2025,Credit Card,31,Female,North America
+966,T00966,TV,LG OLED,7,846.88,12.73,739.07,7/17/2023,Cash,53,Male,Asia
+967,T00967,Smartwatch,Samsung Galaxy Watch 4,10,425.65,8.04,391.43,7/12/2023,Debit Card,46,Female,North America
+968,T00968,Headphones,AirPods Pro,4,2401.69,11.06,2136.06,11/25/2024,PayPal,25,Male,South America
+969,T00969,Smartwatch,Garmin Forerunner,10,2820.07,27.72,2038.35,6/14/2023,Debit Card,19,Male,North America
+970,T00970,Smartwatch,Apple Watch Series 7,8,1134.95,11.71,1002.05,10/21/2024,Debit Card,54,Male,Africa
+971,T00971,TV,Sony Bravia,4,1302.33,27.46,944.71,8/2/2024,Debit Card,42,Male,North America
+972,T00972,Mobile,Google Pixel 6,7,2296.98,16.48,1918.44,6/1/2023,Credit Card,58,Male,North America
+973,T00973,Laptop,Dell XPS 15,4,1340.56,20.78,1061.99,12/17/2023,Debit Card,67,Female,Europe
+974,T00974,Smartwatch,Garmin Forerunner,4,2365.61,10.18,2124.79,11/4/2024,Credit Card,54,Female,South America
+975,T00975,Mobile,Samsung Galaxy S22,10,456.92,16.47,381.67,4/30/2023,Debit Card,35,Male,North America
+976,T00976,Laptop,HP Spectre x360,4,138.15,1.56,135.99,1/25/2024,Cash,54,Female,South America
+977,T00977,TV,Sony Bravia,4,1740.42,10.95,1549.84,3/13/2023,PayPal,36,Female,Europe
+978,T00978,Laptop,HP Spectre x360,1,527.22,20.01,421.72,2/7/2024,Cash,60,Female,Europe
+979,T00979,Smartwatch,Samsung Galaxy Watch 4,2,1608.7,2.15,1574.11,9/22/2024,Cash,35,Female,Asia
+980,T00980,Laptop,MacBook Pro,2,690.04,1.45,680.03,10/14/2023,Cash,39,Male,Asia
+981,T00981,Headphones,AirPods Pro,8,621.99,15.4,526.2,8/19/2023,Credit Card,22,Male,North America
+982,T00982,Laptop,Dell XPS 15,3,1321.88,23.07,1016.92,8/1/2024,Credit Card,38,Female,North America
+983,T00983,TV,LG OLED,5,2112.22,22.22,1642.88,3/11/2023,Cash,29,Female,Europe
+984,T00984,Smartwatch,Garmin Forerunner,4,2197.26,6.66,2050.92,9/22/2024,Credit Card,42,Male,Africa
+985,T00985,TV,Samsung QLED,8,1618.15,22.21,1258.76,5/10/2024,PayPal,22,Female,Africa
+986,T00986,Mobile,Google Pixel 6,8,1909.55,29.67,1342.99,6/30/2024,Credit Card,47,Female,North America
+987,T00987,Smartwatch,Samsung Galaxy Watch 4,8,993.87,13.25,862.18,9/30/2024,PayPal,46,Male,Africa
+988,T00988,Laptop,HP Spectre x360,7,2489.57,21.66,1950.33,8/31/2023,Cash,21,Male,South America
+989,T00989,Mobile,iPhone 13,1,1330.35,6.18,1248.13,12/12/2024,Credit Card,41,Female,Europe
+990,T00990,Smartwatch,Apple Watch Series 7,10,162.05,14.71,138.21,3/12/2023,Debit Card,61,Female,South America
+991,T00991,Laptop,Dell XPS 15,6,1730.99,27.47,1255.49,5/15/2023,Credit Card,70,Female,Asia
+992,T00992,Mobile,Google Pixel 6,2,391.54,20.21,312.41,11/19/2024,Debit Card,46,Male,Europe
+993,T00993,Headphones,Bose 700,6,2117.67,0.37,2109.83,5/23/2024,PayPal,51,Female,North America
+994,T00994,Laptop,HP Spectre x360,6,2245.12,25.99,1661.61,2/18/2024,Cash,26,Female,North America
+995,T00995,Laptop,Dell XPS 15,6,1391.75,12.44,1218.62,10/10/2023,Debit Card,64,Male,South America
+996,T00996,Smartwatch,Apple Watch Series 7,2,2025.25,7.3,1877.41,8/30/2024,Credit Card,50,Female,North America
+997,T00997,Smartwatch,Garmin Forerunner,10,479.31,20.04,383.26,10/30/2024,PayPal,45,Female,Asia
+998,T00998,TV,Sony Bravia,5,2669.56,6.37,2499.51,12/14/2023,Cash,40,Male,North America
+999,T00999,Smartwatch,Samsung Galaxy Watch 4,6,248.8,1.25,245.69,6/29/2023,Cash,55,Female,North America
+1000,T01000,Mobile,iPhone 13,7,1325.63,3.92,1273.67,4/26/2023,Credit Card,46,Female,Africa
