@@ -19,12 +19,12 @@ The primary objective of the project is to analyze sales data for electronic pro
 -💳 Which payment methods are most preferred by customers?   
 -🔄 What is the average order frequency per customer?   
 
-# Python file:
+### Python file:
 
-# Libraries used:
+### Libraries used:
 - Pandas, Numpy, Matplotlib.
 
-# Project Goals:
+### Project Goals:
 - Sales Performance by Category:
   Identify top-selling categories (e.g., Smartphones, Laptops, TVs).
   Analyze the relationship between purchase quantities and final prices.
