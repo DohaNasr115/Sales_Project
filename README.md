@@ -42,7 +42,8 @@ The primary objective of the project is to analyze sales data for electronic pro
   Examine how payment methods influence purchase amounts. 
 - Time-Based Sales Trends:
   Identify high-sales periods (e.g., holidays or seasons).
-  ### Dashboard Link : <a href:"https://github.com/DohaNasr115/Sales_Project/blob/main/PROJECT%20DASHBOARD.pbix"></a>
+  ### Dashboard Link :
+   - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/PROJECT%20DASHBOARD.pbix">Dashboard</a>
   
 
   
