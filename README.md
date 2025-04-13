@@ -17,7 +17,11 @@ The primary objective of the project is to analyze sales data for electronic pro
 -🎯 Which product categories are most popular among different age groups?  
 -🏷️ How does discount percentage affect sales?   
 -💳 Which payment methods are most preferred by customers?   
--🔄 What is the average order frequency per customer?   
+-🔄 What is the average order frequency per customer? 
+-5️⃣ Profitability & Discount Impact
+-💲 How do discounts impact final sales revenue?
+-💵 Are higher discounts leading to more purchases?
+-💰 What is the average profit margin after discounts?
 
 ### Python file:
 
@@ -37,7 +41,9 @@ The primary objective of the project is to analyze sales data for electronic pro
 - Payment Method Analysis:
   Examine how payment methods influence purchase amounts. 
 - Time-Based Sales Trends:
-  Identify high-sales periods (e.g., holidays or seasons). 
+  Identify high-sales periods (e.g., holidays or seasons).
+
+  
   
 
 
