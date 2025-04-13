@@ -22,7 +22,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 ### Python file:
 
 ### Libraries used:
-Pandas: For data processing and organization.
+Pandas: For data processing and organization.   
 Numpy: For mathematical and statistical operations.
 
 
