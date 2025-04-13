@@ -6,3 +6,5 @@ The primary objective of the project is to analyze sales data for electronic pro
 
 ### Dataset used
 - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/sales_data.csv">Dataset</a>
+![Image](https://github.com/user-attachments/assets/efa7e05d-6263-481d-b18a-d48c6ef4414c)
+
