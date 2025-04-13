@@ -46,7 +46,7 @@ The primary objective of the project is to analyze sales data for electronic pro
   ### Dashboard Link :
    - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/PROJECT%20DASHBOARD.pbix">Dashboard</a>
    
-   ![Image](https://github.com/user-attachments/assets/fb807cee-e412-4ad8-8789-3a7b4b52852e)
+  ![Image](https://github.com/user-attachments/assets/fb807cee-e412-4ad8-8789-3a7b4b52852e)
    ![Image](https://github.com/user-attachments/assets/efa7e05d-6263-481d-b18a-d48c6ef4414c)
    ![Image](https://github.com/user-attachments/assets/fe442a0f-09a8-4986-a360-8803121f73f5)
    ![Image](https://github.com/user-attachments/assets/ccc9a7f3-7b8d-4ede-b18c-58bd9eef6659)
