@@ -7,7 +7,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 ### Dataset used
 - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/sales_data.csv">Dataset</a>
 ### Questions (KPIs)
--💰 What is the total revenue over time?  
+- 💰 What is the total revenue over time?  
 -📊 Which months or seasons have the highest sales?  
 -🏆 Which products generate the most revenue?  
 -📍 Which regions contribute the most to sales?  
@@ -22,8 +22,22 @@ The primary objective of the project is to analyze sales data for electronic pro
 ### Python file:
 
 ### Libraries used:
-Pandas: For data processing and organization.   
-Numpy: For mathematical and statistical operations.
+-Pandas, Numpy, Matplotlib.
+
+### Project Goals:
+# Sales Performance by Category:
+-Identify top-selling categories (e.g., Smartphones, Laptops, TVs).
+Analyze the relationship between purchase quantities and final prices.
+# Discount Impact on Sales:
+Study how discounts affect revenues.
+Assess if promotions boost sales volume.
+# Customer Analysis:
+Analyze purchasing behavior by age and gender.
+Identify regions with the highest sales.
+# Payment Method Analysis:
+Examine how payment methods influence purchase amounts.
+# Time-Based Sales Trends:
+Identify high-sales periods (e.g., holidays or seasons).
 
 
 
