@@ -8,6 +8,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/sales_data.csv">Dataset</a>
 ### Questions (KPIs)
 -💰 What is the total revenue over time?
+
 -📊 Which months or seasons have the highest sales?
 -🏆 Which products generate the most revenue?
 -📍 Which regions contribute the most to sales?
