@@ -27,7 +27,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/Depi_Final_Project%20(1).ipynb">Python</a>
 
 ### Libraries used:
-- Pandas, Numpy, Matplotlib.
+- Pandas,Matplotlib.
 
 ### Project Goals:
 - Sales Performance by Category:
