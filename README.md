@@ -24,7 +24,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 -💰 What is the average profit margin after discounts?   
 
 ### Python file:
-- <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/Depi_Final_Project%20(1).ipynb">Python</a>
+- <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/Depi_Final_Project%20(3).ipynb">Python</a>
 
 ### Libraries used:
 - Pandas,Matplotlib.
@@ -44,7 +44,7 @@ The primary objective of the project is to analyze sales data for electronic pro
 - Time-Based Sales Trends:
   Identify high-sales periods (e.g., holidays or seasons).
   ### Dashboard Link :
-   - <a href="https://github.com/DohaNasr115/Sales_Project/blob/main/PROJECT%20DASHBOARD.pbix">Dashboard</a>
+   - <a href="">Dashboard</a>
    
   ![Image](https://github.com/user-attachments/assets/fb807cee-e412-4ad8-8789-3a7b4b52852e)
    ![Image](https://github.com/user-attachments/assets/efa7e05d-6263-481d-b18a-d48c6ef4414c)
