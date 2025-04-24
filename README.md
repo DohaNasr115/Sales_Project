@@ -28,21 +28,6 @@ The primary objective of the project is to analyze sales data for electronic pro
 
 ### Libraries used:
 - Pandas,Matplotlib.
-
-### Project Goals:
-- Sales Performance by Category:
-  Identify top-selling categories (e.g., Smartphones, Laptops, TVs).  
-  Analyze the relationship between purchase quantities and final prices.
-- Discount Impact on Sales:
-  Study how discounts affect revenues.  
-  Assess if promotions boost sales volume.
-- Customer Analysis:
-  Analyze purchasing behavior by age and gender.  
-  Identify regions with the highest sales.
-- Payment Method Analysis:
-  Examine how payment methods influence purchase amounts. 
-- Time-Based Sales Trends:
-  Identify high-sales periods (e.g., holidays or seasons).
   ### Dashboard Link :
    - <a href="">Dashboard</a>
    
