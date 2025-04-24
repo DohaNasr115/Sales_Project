@@ -30,13 +30,13 @@ The primary objective of the project is to analyze sales data for electronic pro
 - Pandas,Matplotlib.
   ### Dashboard Link :
    - <a href="">Dashboard</a>
-   
-  ![Image](https://github.com/user-attachments/assets/fb807cee-e412-4ad8-8789-3a7b4b52852e)
-   ![Image](https://github.com/user-attachments/assets/efa7e05d-6263-481d-b18a-d48c6ef4414c)
-   ![Image](https://github.com/user-attachments/assets/fe442a0f-09a8-4986-a360-8803121f73f5)
-   ![Image](https://github.com/user-attachments/assets/ccc9a7f3-7b8d-4ede-b18c-58bd9eef6659)
-   ![Image](https://github.com/user-attachments/assets/370020ea-188b-4da9-bad2-207379f17b99)
-  
+   ![Image](https://github.com/user-attachments/assets/69b7027e-d87f-46f6-96c9-12dddc9405c6)
+   ![Image](https://github.com/user-attachments/assets/10e1aaf0-326d-4913-a213-afad93fbba56)
+   ![Image](https://github.com/user-attachments/assets/4dc2579d-1909-4775-a59e-318d3401b82c)
+   ![Image](https://github.com/user-attachments/assets/7782815a-5850-4eae-9036-670941d7a79a)
+   ![Image](https://github.com/user-attachments/assets/1c0c3617-b824-45ef-8dbd-3e585592c522)
+  ![Image](https://github.com/user-attachments/assets/e72f5280-5194-421e-9157-0fa8585dc9a7)
+
 ### Final Conclusion:
 - To boost sales, focus should be placed on the most profitable categories, offering strategic discounts, and targeting the right customer segments with tailored marketing campaigns.
   
